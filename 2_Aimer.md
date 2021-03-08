@@ -194,3 +194,50 @@ Même si parfois il faudra essuyer quelques larmes.
 Aller vers les autres c'est assez simple, c'est répondre à l'appel pressent du Seigneur d'aller nous adresser a notre prochain parce que quelque chose chez lui nous interpelle. Ce quelque chose, c'est Dieu qui nous l'a mis en face comme un appas, source de conversation et source de ce qu'est l'autre.
 
 Aller  vers l'autre c'est répondre a l'appel que nous avons tous de nous connaitre, cette soif de vaincre par l'amour du prochain.
+
+Aller vers l'autre c'est enfin aller vers Dieu, dans : 
+> Un entretien, souvent, seul à seul, avec celui dont nous savons qu'il nous aime.
+> Sainte Thérèse d'Avila.
+
+Mais la c'est Lui qui a le premier pas, toujours, comme dans toute démarche que nous faisons, il nous en donne l'impulsion,*Il nous scrute*, Psaume 8, mais nous veut libres et ne s'impose pas.
+
+## Témoignage
+
+J'ai été baptisé à l'adolescence en 2001. J'ai demandé le baptème après avoir vu une émission de télévision. Dans celle-ci la voix off disait que les personnes tenaient plus longtemps à vivre en prison lorsqu'elles avaient la foi.
+Je suis l'enfant de cette phrase, je n'ai jamais mis les pieds dans une prison.
+
+J'ai été baptisé en attendant quelque chose de somptueux au moment du baptème, et je l'ai eu ... 13 ans plus tard, en 2014. Entre les deux je n'ai pas fait honneur au Seigneur par une vie plutôt dépravée mais pas dépourvue de sens néanmoins. J'avais oublié Dieu et la recherche que j'avais pu avoir dans ma jeunesse. J'ai tout de même été confirmé en 2002 à la cathédrale de Bayonne, d'un bon coeur mais sans grande conviction.
+
+Devant le constat que ma vie allait de mal en pis, début 2011, avec drogues, alcool, maladie, inconduite générale, échec de mes études (vous pouvez prendre les listes données par saint Paul dans ses lettres elles me correspondent), j'ai finis par conclure que ma vie tendait vers la mort si elle continuait ainsi, et j'ai eu peur.
+
+Entre temps, a Noël, au repas familial, ma grand-mère avait dit en riant : "J'espere que vous allez devenir des veaux (dévôts)".
+
+Ainsi j'ai dépoussièré mon nouveau testament, hérité de mon baptème, en janvier 2011. Je l'avait ouvert pour découvrir deux évangiles en 2008. Aujourd'hui, j'aime le nouveau testament, grâce à la découverte que j'en ai fait ces années là. Ce moi de janvier, au fil des pages je me suis passionné pour l'ouvrage. Je l'ai lu une première fois et alors que je ne comprenais vraiment pas tout le contenu, je comprenais par l'Esprit que je n'avais jamais lu un si bon livre. Je ne suis pas un grand lecteur mais je sais apprécier un bon livre. Aujourd'hui je ne lis que la bible.
+
+J'ai lu ce mois de janvier 2011 une deuxième fois le nouveau testament. Car j'avais versé une larme a la fin de la première lecture : il fallait que j'en comprenne plus. Puis le seigneur m'a invité a la lire une troisième fois.
+
+A la première lecture de l'Apocalypse de Saint Jean, je ne pouvais pas me concentrer. J'entendais : "arrête de fumer, arrête de fumer !" à chaque mot. J'ai fait des essai et en 2013 j'ai réussi.
+
+## Février 2011
+
+Anecdotique peut être, ce petit soleil dans mon coeur, cette lueur d'espoir qui ne me quittait pas après ces trois lectures du nouveau testament. Il a fait beau ce mois là à Bordeaux, un soleil a tout rompre, comme dans mon coeur.
+
+## Avril 2014
+
+Trois ans après ce radieux mois de février, vint un évènement que je n'ose plus appeler "conversion" tellement je ne suis pas converti.
+
+Je vais vous épargner tous les détails pour vous amener a l'essentiel.
+
+Le prêtre, dans une chapelle préparée et décorée pour et par des jeunes catholiques, tenait dans ses mains l'ostensoir et la divine hostie à l'intérieur. L'ostensoir devait rester 3 jours dans la chapelle, à exposer Jésus. Ce samedi 5 avril, une aube par dessus mes vêtements, j'accompagnais ce prêtre affublé d'une bougie avec un autre jeune homme, pour aller visiter chaque participant à l'évènement. Nous faisions partie de Jeunesse 2000, j'avais alors 27 ans.
+
+Le Christ se penchait devant chaque jeune le temps d'une prière, on pouvait observer diverses réactions. Des pleurs, du recueillement, des sourires traduisant la joie et la paix. Alors que Jésus avait fait le tour des personnes présentes il ne restait que les deux servant d'autel que nous étions. De loin encore, je regardais l'hostie et je sentis un regard électrique sur moi venant de l'hostie. Ce n'est pas le genre de chose que j'ai l'habitude de vivre. L'hostie raisonnablement ne peut avoir un regard que je ressens comme un regard. L'autre servant toucha le drap, le vêtement du Seigneur et en signe de demande de guérison - oui je suis malade - je fais la même chose a mon tour. C'est une demande de guérison car dans le 5ème chapitre de l'évangile de Marc, une femme touche le vêtement du seigneur pour être guérie, et elle l'est. Le Seigneur est même étonné de ce geste et en rajoute "Ma fille, ta foi t'a sauvée ; va en paix et sois guérie de ton infirmité".
+
+## Voici mon coeur
+
+Alors un Amour comme jamais je n'en ai ressenti ailleurs s'est déversé en moi et j'ai cru.
+
+> Je souhaite que tout le monde ressente ça.
+
+Je suis resté béat sans bouger la main droite devant la bouche en inspirant, comme signe de stupéfaction. Un soleil s'est levé sur ma vie. Un nouvel éclat, c'était un peu Obélix qui tombait dans la potion magique, comme j'aime a le penser. Peut être un genre d'extase même si ça me semble inéxacte.
+
+7 ans plus tard ce moment marque toujours ma vie.
