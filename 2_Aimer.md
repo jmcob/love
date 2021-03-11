@@ -195,7 +195,7 @@ Aller vers les autres c'est assez simple, c'est répondre à l'appel pressent du
 
 Aller  vers l'autre c'est répondre a l'appel que nous avons tous de nous connaitre, cette soif de vaincre par l'amour du prochain.
 
-Aller vers l'autre c'est enfin aller vers Dieu, dans : 
+Aller vers l'autre c'est enfin aller vers Dieu, dans :
 > Un entretien, souvent, seul à seul, avec celui dont nous savons qu'il nous aime.
 > Sainte Thérèse d'Avila.
 
