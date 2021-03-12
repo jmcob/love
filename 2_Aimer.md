@@ -1,4 +1,5 @@
 # Aimer
+ <!-- (quand les pilules ne nous suffiront plus) -->
 
 ## Intro
 
@@ -26,13 +27,13 @@ Mais l'ami est avant tout l'Ami, avec une capitale. Jésus, Dieu fait hommme, no
 
 La visite, ou la rencontre, c'est Dieu qui vient et s'offre a vous dans votre interiorité. Il vient vous offrir sa vie, son bonheur, sa grace.
 
-Je suis un homme qui a se convertit encore aujourd'hui, il y a eu de belles étapes dans ma conversion. Ces étapes je vous les raconterai comme témoignage.
+Je suis un homme qui se convertit encore aujourd'hui, il y a eu de belles étapes dans ma conversion. Ces étapes je vous les raconterai comme témoignage.
 
-Je commence sur ce souvenir : je n'ai pas été baptisé enfant. Je raconterai mon baptême plus tard. Simplement je me rappelle d'une chose : très conscient d'habiter ce corps, je ne pouvais pas accepter la mort. L'idée de disparaitre un jour était révolante, j'avais alors environ 6 ans. Néanmoins un jour, j'ai vaguement entendu que Jésus était réssucité après un mort horrible sur sa croix. Cela devait signifier que nous aussi nous revivront avec lui. Je me rappelle d'une sensation bizarre et intense en moi à ce moment la.
+Je commence sur ce souvenir : je n'ai pas été baptisé enfant. Je raconterai mon baptême plus tard. Simplement je me rappelle d'une chose : très conscient d'habiter ce corps, je ne pouvais pas accepter la mort. L'idée de disparaitre un jour était révolante, j'avais alors environ 6 ans. Néanmoins un jour, j'ai vaguement entendu que Jésus était réssucité après un mort horrible sur sa croix. Cela devait signifier que nous aussi nous revivront avec lui. Je me rappelle d'une sensation bizarre et intense en moi à ce moment là.
 Peut être que Jésus est venu me visiter pour la premiere fois, ce jour là.
 
 J'annonce la couleur par ce premier texte : je parlerai de "croire" avec "aimer", plus généralement de l'Amour de Dieu,
->Car Dieu est Amour.
+> Car Dieu est Amour.
 
 ## 2 Parabole au chapitre 18 de l'évangile selon saint Luc
 
@@ -50,18 +51,23 @@ J'annonce la couleur par ce premier texte : je parlerai de "croire" avec "aimer"
 
 Source AELF
 
-J'ai été convaincu d'être juste alors que je méprisais les autres. C'est ma derniere conversion, de la semaine dernière, et je vous en parle comme un expert. Ce sont des pardons que j'ai été "obligé de donné", comme contraint, qui m'ont ouvert les yeux. Je ne sais pas encore si cette bienveillance va perdurer.  
+J'ai été convaincu d'être juste alors que je méprisais les autres. C'est ma derniere conversion, de la semaine dernière, et je vous en parle comme un expert. Ce sont des pardons que j'ai été presque "obligé de donner" à des frères et soeurs. J'étais presque forcé par notre Seigneur, comme contraint. J'ai un peu (beaucoup) ouvert les yeux. Je ne sais pas encore si cette bienveillance va perdurer.  
 Je le souhaite.
 
 ## l'Amour est notre solution
 
-*Je m'étais renfermé.* Et quelles qu'en soient les raisons, il me fallait faire ce constat. Et le faire en d'autres termes aussi : quoi que j'en pense, j'étais bien plus ouvert aux autres auparavant. Auparavant ? Avant que le ciel ne s'assombrisse autour de moi.
-Mais alors, quelles que années plus tard, alors qu'il s'était très franchement rééclaircit, j'ai laissé les nuages réenvahir ma maison. Et ainsi fut pour moi ce verset :
+*Je m'étais renfermé.* Et quelles qu'en soient les raisons, il me fallait faire ce constat. Et le faire en d'autres termes aussi : quoi que j'en pense, j'étais bien plus ouvert aux autres auparavant. 
+Auparavant ? 
+Avant que le ciel ne s'assombrisse autour de moi. En quelques années les nuages ont obstrué un peu la lumière de mon baptème autour de moi.
+
+Mais alors, quelles que années plus tard, alors qu'il s'était très franchement rééclaircit par une conversion forte (que je vais vite vous raconter), j'ai laissé les nuages réenvahir ma maison. 
+
+Et ainsi fut pour moi le verset suivant :
 
 > Si donc la lumière qui est en vous est ténèbres, quelles ténèbres !  
 > (Matthieu 6,22-23)
 
-Ainsi la solution a mes problèmes est de m'ouvrir à l'autre : d'aimer mon prochain. De redevenir celui que j'étais avant les ténèbres que me coeur ont préféré au Seigneur sans même s'en douter. Ou comment, après tout, l'Amour est ma véritable solution. Car voila des années que je le sais sans savoir l'appliquer.
+Ainsi, la solution a mes problèmes est de m'ouvrir à l'autre : d'aimer mon prochain. De redevenir celui que j'étais avant les ténèbres que me coeur ont préféré au Seigneur sans même s'en douter. Ou comment, après tout, l'Amour est ma véritable solution. Car voila des années que je le sais sans savoir l'appliquer.
 
 Ce texte va être une histoire d'aimer, ou comment, de A à Z je vais découvrir avec vous sous différentes formes, et peut être aussi parfois redécouvrir, l'Amour.
 
@@ -119,7 +125,7 @@ En fait j'attendais ça depuis longtemps Seigneur.
 J'attendais ma libération, j'attendais mes nouvelles ailes. J'attendais d'aimer, j'attendais.
 Mais je ne pensais pas que tu m'en ferais l'acteur depuis le début! Que je poserai mes actes comme on met des habits !
 
-Merci ! Je te rends grâce ô Seigneur de l'univers pour ce que tu fais de moi chaque jour, même en temps de pandémie ! Seigneur des armées même si le Covid s'infectais encore, je serai innébranlable, grâce a toi, sous ton ombre !
+Merci ! Je te rends grâce ô Seigneur de l'univers pour ce que tu fais de moi chaque jour, même en temps de pandémie ! Seigneur des armées même si le Covid réinfectais encore plus le monde, je serai innébranlable, grâce a toi, sous ton ombre !
 
 Tu me lis et tu ries, comme on regarde un enfant manger sa première purée après le sevrage du lait !
 
@@ -191,7 +197,7 @@ Néanmoins par là c'est annoncer le royaume.
 Aller vers les autres ce n'est pas être triste d'aller vers le pauvre. C'est partager sa joie d'abord et la nôtre ensuite.
 Même si parfois il faudra essuyer quelques larmes.
 
-Aller vers les autres c'est assez simple, c'est répondre à l'appel pressent du Seigneur d'aller nous adresser a notre prochain parce que quelque chose chez lui nous interpelle. Ce quelque chose, c'est Dieu qui nous l'a mis en face comme un appas, source de conversation et source de ce qu'est l'autre.
+Aller vers les autres c'est assez simple, c'est répondre à l'appel pressent du Seigneur d'aller nous adresser à notre prochain parce que quelque chose chez lui nous interpelle. Ce quelque chose, c'est Dieu qui nous l'a mis en face comme un appas, source de conversation et source de ce qu'est l'autre.
 
 Aller  vers l'autre c'est répondre a l'appel que nous avons tous de nous connaitre, cette soif de vaincre par l'amour du prochain.
 
@@ -206,13 +212,13 @@ Mais la c'est Lui qui a le premier pas, toujours, comme dans toute démarche que
 J'ai été baptisé à l'adolescence en 2001. J'ai demandé le baptème après avoir vu une émission de télévision. Dans celle-ci la voix off disait que les personnes tenaient plus longtemps à vivre en prison lorsqu'elles avaient la foi.
 Je suis l'enfant de cette phrase, je n'ai jamais mis les pieds dans une prison.
 
-J'ai été baptisé en attendant quelque chose de somptueux au moment du baptème, et je l'ai eu ... 13 ans plus tard, en 2014. Entre les deux je n'ai pas fait honneur au Seigneur par une vie plutôt dépravée mais pas dépourvue de sens néanmoins. J'avais oublié Dieu et la recherche que j'avais pu avoir dans ma jeunesse. J'ai tout de même été confirmé en 2002 à la cathédrale de Bayonne, d'un bon coeur mais sans grande conviction.
+J'ai été baptisé en attendant quelque chose de somptueux au moment du baptème, et je l'ai eu ... 13 ans plus tard, en 2014. Entre les deux je n'ai pas fait honneur au Seigneur par une vie plutôt dépravée mais pas dépourvue de sens néanmoins. J'avais oublié Dieu, ne l'ayant pas vraiment connu. J'avais oublié la recherche que j'avais pu avoir dans ma jeunesse. J'ai tout de même été confirmé en 2002 à la cathédrale de Bayonne, d'un bon coeur mais sans grande conviction.
 
-Devant le constat que ma vie allait de mal en pis, début 2011, avec drogues, alcool, maladie, inconduite générale, échec de mes études (vous pouvez prendre les listes données par saint Paul dans ses lettres elles me correspondent), j'ai finis par conclure que ma vie tendait vers la mort si elle continuait ainsi, et j'ai eu peur.
+Devant le constat que ma vie allait de mal en pis, début 2011, avec drogues, alcool, maladie, inconduite générale, échec de mes études (vous pouvez prendre les listes données par saint Paul dans ses lettres elles me correspondent), j'ai fini par conclure que ma vie tendait vers la mort si elle continuait ainsi, et j'ai eu peur.
 
 Entre temps, a Noël, au repas familial, ma grand-mère avait dit en riant : "J'espere que vous allez devenir des veaux (dévôts)".
 
-Ainsi j'ai dépoussièré mon nouveau testament, hérité de mon baptème, en janvier 2011. Je l'avait ouvert pour découvrir deux évangiles en 2008. Aujourd'hui, j'aime le nouveau testament, grâce à la découverte que j'en ai fait ces années là. Ce moi de janvier, au fil des pages je me suis passionné pour l'ouvrage. Je l'ai lu une première fois et alors que je ne comprenais vraiment pas tout le contenu, je comprenais par l'Esprit que je n'avais jamais lu un si bon livre. Je ne suis pas un grand lecteur mais je sais apprécier un bon livre. Aujourd'hui je ne lis que la bible.
+Ainsi j'ai dépoussièré mon nouveau testament, hérité de mon baptème, en janvier 2011. Je l'avait ouvert pour découvrir deux évangiles en 2008. Aujourd'hui, j'aime le nouveau testament, grâce à la découverte que j'en ai fait ces années là. Ce mois de janvier, au fil des pages je me suis passionné pour l'ouvrage. Je l'ai lu une première fois et alors que je ne comprenais vraiment pas tout le contenu, je comprenais par l'Esprit que je n'avais jamais lu un si bon livre. Je ne suis pas un grand lecteur mais je sais apprécier un bon livre. Aujourd'hui je ne lis que la bible.
 
 J'ai lu ce mois de janvier 2011 une deuxième fois le nouveau testament. Car j'avais versé une larme a la fin de la première lecture : il fallait que j'en comprenne plus. Puis le seigneur m'a invité a la lire une troisième fois.
 
@@ -228,9 +234,9 @@ Trois ans après ce radieux mois de février, vint un évènement que je n'ose p
 
 Je vais vous épargner tous les détails pour vous amener a l'essentiel.
 
-Le prêtre, dans une chapelle préparée et décorée pour et par des jeunes catholiques, tenait dans ses mains l'ostensoir et la divine hostie à l'intérieur. L'ostensoir devait rester 3 jours dans la chapelle, à exposer Jésus. Ce samedi 5 avril, une aube par dessus mes vêtements, j'accompagnais ce prêtre affublé d'une bougie avec un autre jeune homme, pour aller visiter chaque participant à l'évènement. Nous faisions partie de Jeunesse 2000, j'avais alors 27 ans.
+Le prêtre, dans une chapelle préparée et décorée pour et par des jeunes catholiques, tenait dans ses mains l'ostensoir et la divine hostie à l'intérieur. L'ostensoir devait rester 3 jours dans la chapelle, à exposer Jésus. Ce samedi 5 avril, une aube par dessus mes vêtements, j'accompagnais ce prêtre affublé d'un cierge avec un autre jeune homme, pour aller visiter chaque participant à l'évènement. Nous faisions partie de Jeunesse 2000, j'avais alors 27 ans.
 
-Le Christ se penchait devant chaque jeune le temps d'une prière, on pouvait observer diverses réactions. Des pleurs, du recueillement, des sourires traduisant la joie et la paix. Alors que Jésus avait fait le tour des personnes présentes il ne restait que les deux servant d'autel que nous étions. De loin encore, je regardais l'hostie et je sentis un regard électrique sur moi venant de l'hostie. Ce n'est pas le genre de chose que j'ai l'habitude de vivre. L'hostie raisonnablement ne peut avoir un regard que je ressens comme un regard. L'autre servant toucha le drap, le vêtement du Seigneur et en signe de demande de guérison - oui je suis malade - je fais la même chose a mon tour. C'est une demande de guérison car dans le 5ème chapitre de l'évangile de Marc, une femme touche le vêtement du seigneur pour être guérie, et elle l'est. Le Seigneur est même étonné de ce geste et en rajoute "Ma fille, ta foi t'a sauvée ; va en paix et sois guérie de ton infirmité".
+Le Christ se penchait devant chaque jeune le temps d'une prière. On pouvait observer diverses réactions de la part des jeunes. Des pleurs, du recueillement, des sourires traduisant la joie et la paix. Alors que Jésus avait fait le tour des personnes présentes il ne restait que les deux servants d'autel que nous étions. De loin encore, je regardais l'hostie et je sentis un regard électrique sur moi venant de l'hostie. Ce n'est pas le genre de chose que j'ai l'habitude de vivre. L'hostie raisonnablement ne peut avoir un regard que je ressens comme un regard. L'autre servant toucha le drap, le vêtement du Seigneur et en signe de demande de guérison - oui je suis malade - je fais la même chose a mon tour. C'est une demande de guérison car dans le 5ème chapitre de l'évangile de Marc, une femme touche le vêtement du seigneur pour être guérie, et elle l'est. Le Seigneur est même étonné de ce geste et en rajoute "Ma fille, ta foi t'a sauvée ; va en paix et sois guérie de ton infirmité".
 
 ## Voici mon coeur
 
