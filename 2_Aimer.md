@@ -37,19 +37,19 @@ J'annonce la couleur par ce premier texte : je parlerai de "croire" avec "aimer"
 
 ## 2 Parabole au chapitre 18 de l'évangile selon saint Luc
 
-09 À l’adresse de certains qui étaient convaincus d’être justes et qui méprisaient les autres, Jésus dit la parabole que voici :
+> 09 À l’adresse de certains qui étaient convaincus d’être justes et qui méprisaient les autres, Jésus dit la parabole que voici :
+>
+> 10 « Deux hommes montèrent au Temple pour prier. L’un était pharisien, et l’autre, publicain (c’est-à-dire un collecteur d’impôts).
+>
+> 11 Le pharisien se tenait debout et priait en lui-même : “Mon Dieu, je te rends grâce parce que je ne suis pas comme les autres hommes – ils sont voleurs, injustes, adultères –, ou encore comme ce publicain.
+>
+> 12 Je jeûne deux fois par semaine et je verse le dixième de tout ce que je gagne.”
+>
+> 13 Le publicain, lui, se tenait à distance et n’osait même pas lever les yeux vers le ciel ; mais il se frappait la poitrine, en disant : “Mon Dieu, montre-toi favorable au pécheur que je suis !”
+>
+> 14 Je vous le déclare : quand ce dernier redescendit dans sa maison, c’est lui qui était devenu un homme juste, plutôt que l’autre. Qui s’élève sera abaissé ; qui s’abaisse sera élevé. »
 
-10 « Deux hommes montèrent au Temple pour prier. L’un était pharisien, et l’autre, publicain (c’est-à-dire un collecteur d’impôts).
-
-11 Le pharisien se tenait debout et priait en lui-même : “Mon Dieu, je te rends grâce parce que je ne suis pas comme les autres hommes – ils sont voleurs, injustes, adultères –, ou encore comme ce publicain.
-
-12 Je jeûne deux fois par semaine et je verse le dixième de tout ce que je gagne.”
-
-13 Le publicain, lui, se tenait à distance et n’osait même pas lever les yeux vers le ciel ; mais il se frappait la poitrine, en disant : “Mon Dieu, montre-toi favorable au pécheur que je suis !”
-
-14 Je vous le déclare : quand ce dernier redescendit dans sa maison, c’est lui qui était devenu un homme juste, plutôt que l’autre. Qui s’élève sera abaissé ; qui s’abaisse sera élevé. »
-
-Source AELF
+Source : AELF
 
 J'ai été convaincu d'être juste alors que je méprisais les autres. C'est ma derniere conversion, de la semaine dernière, et je vous en parle comme un expert. Ce sont des pardons que j'ai été presque "obligé de donner" à des frères et soeurs. J'étais presque forcé par notre Seigneur, comme contraint. J'ai un peu (beaucoup) ouvert les yeux. Je ne sais pas encore si cette bienveillance va perdurer.  
 Je le souhaite.
@@ -246,4 +246,147 @@ Alors un Amour comme jamais je n'en ai ressenti ailleurs s'est déversé en moi 
 
 Je suis resté béat sans bouger la main droite devant la bouche en inspirant, comme signe de stupéfaction. Un soleil s'est levé sur ma vie. Un nouvel éclat, c'était un peu Obélix qui tombait dans la potion magique, comme j'aime a le penser. Peut être un genre d'extase même si ça me semble inéxacte.
 
-7 ans plus tard ce moment marque toujours ma vie.
+7 ans plus tard ce moment marque toujours ma vie. Mais je crois que ce n'est pas vraiment ça ma conversion. La conversion c'est plus tard. Jusqu'ici j'ai ouvert les yeux et j'ai cru en Dieu. Mais je n'ai pas cessé mon mauvais comportement complètement.
+
+## Dieu m'a toujours donné la force, dans toutes mes difficultés, jusqu'à aujourd'hui.
+
+Il y a eu des moments difficiles comme tout le monde, ou je me croyais dépassé par les évènements, mais j'ai tenu, et je tiendrai si Dieu le veut encore. Jusqu'à ce que décision se fasse pour moi, moment fatidique ou je serai libre, ou l'inverse mais je crois que j'arriverai a la liberté.
+
+*C'est le combat spirituel.* 
+
+Je ne suis pas un expert. Mais je crois quand même comprendre qu'il se mène avec Dieu, le combat spirituel. Qu'il se mène intérieurement dans la prière mais pas seulement. Qu'il nous permet de lutter contre les tentations, les découragements, les déceptions, de battre les épreuves ... de la vie. La combat spirituel, c'est la vie.
+
+Et pour vous comme pour moi cela va passer par aller vers le prochain activement.
+
+## Aller vers les autres est un raccourcis / Evangile selon saint Marc 12,28-34
+
+> 28 Un scribe qui avait entendu la discussion, et remarqué que Jésus avait bien répondu, s’avança pour lui demander : « Quel est le premier de tous les commandements ? »
+>
+> 29 Jésus lui fit cette réponse : « Voici le premier : Écoute, Israël : le Seigneur notre Dieu est l’unique Seigneur. 
+>
+> 30 Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme, de tout ton esprit et de toute ta force. 
+>
+> 31 Et voici le second : Tu aimeras ton prochain comme toi-même. Il n’y a pas de commandement plus grand que ceux-là. »
+>
+> 32 Le scribe reprit : « Fort bien, Maître, tu as dit vrai : Dieu est l’Unique et il n’y en a pas d’autre que lui.
+>
+> 33 L’aimer de tout son cœur, de toute son intelligence, de toute sa force, et aimer son prochain comme soi-même, vaut mieux que toute offrande d’holocaustes et de sacrifices. »
+>
+> 34 Jésus, voyant qu’il avait fait une remarque judicieuse, lui dit : « Tu n’es pas loin du royaume de Dieu. » Et personne n’osait plus l’interroger.
+
+Source : AELF
+
+## Ce qu'il est peut être nécéssaire de préciser
+
+Ma hantise ce serait de multiplier ici les explications d'évangile sans le vivre. Ainsi j'estime que vous avez compris ce qu'on vient de lire, d'une vision qui vous est propre. Que l'Esprit de Dieu vous instruit, et mieux que je ne le ferai. Ainsi je ne commenterai pas l'évangile. Le rapport qu'il a avec le texte suffit, et l'esprit vous instruit comme une continuité.
+
+> Quant à vous, l’onction que vous avez reçue de lui demeure en vous, et vous n’avez pas besoin d’enseignement. Cette onction vous enseigne toutes choses, elle qui est vérité et non pas mensonge ; et, selon ce qu’elle vous a enseigné, vous demeurez en lui.  
+> Premier épitre de Jean 2,27
+
+## Jésus a néanmoins expliqué une fois la parabole du semeur
+
+Je ferai donc exception parce que c'est le point central de ce texte : 
+
+*Si nous faisons de notre leitmotiv l'ouverture aux autres et avons comme but leur rencontre, alors nous allons vers l'Amour du prochain, donc l'Amour de Dieu*
+
+C'est assez simple théoriquement, mais nous allons illustrer cela encore par l'évangile, encore une fois, pour saisir le coté pratique des choses. 
+
+## Evangile de Matthieu 25,31-46
+
+31 « Quand le Fils de l’homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire.
+
+32 Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs :
+
+33 il placera les brebis à sa droite, et les boucs à gauche.
+
+34 Alors le Roi dira à ceux qui seront à sa droite : “Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde.
+
+35 Car j’avais faim, et vous m’avez donné à manger ; j’avais soif, et vous m’avez donné à boire ; j’étais un étranger, et vous m’avez accueilli ;
+
+36 j’étais nu, et vous m’avez habillé ; j’étais malade, et vous m’avez visité ; j’étais en prison, et vous êtes venus jusqu’à moi !”
+
+37 Alors les justes lui répondront : “Seigneur, quand est-ce que nous t’avons vu… ? tu avais donc faim, et nous t’avons nourri ? tu avais soif, et nous t’avons donné à boire ?
+
+38 tu étais un étranger, et nous t’avons accueilli ? tu étais nu, et nous t’avons habillé ?
+
+39 tu étais malade ou en prison… Quand sommes-nous venus jusqu’à toi ?”
+
+40 Et le Roi leur répondra : “Amen, je vous le dis : chaque fois que vous l’avez fait à l’un de ces plus petits de mes frères, c’est à moi que vous l’avez fait.”
+
+41 Alors il dira à ceux qui seront à sa gauche : “Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges.
+
+42 Car j’avais faim, et vous ne m’avez pas donné à manger ; j’avais soif, et vous ne m’avez pas donné à boire ;
+
+43 j’étais un étranger, et vous ne m’avez pas accueilli ; j’étais nu, et vous ne m’avez pas habillé ; j’étais malade et en prison, et vous ne m’avez pas visité.”
+
+44 Alors ils répondront, eux aussi : “Seigneur, quand t’avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?”
+
+45 Il leur répondra : “Amen, je vous le dis : chaque fois que vous ne l’avez pas fait à l’un de ces plus petits, c’est à moi que vous ne l’avez pas fait.”
+
+46 Et ils s’en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. »
+
+## Vous avez bien compris cette page d'évangile
+
+Vous allez me dire que je suis monté en gradation. D'abord il s'agissait d'aimer les autres, d'aller vers eux et d'être tourné vers eux. Maintenant il faudrait les soigner, les visiter, les vêtir, leur donner à boire et à manger.
+
+Ce à quoi je répond oui.
+
+Je ne veux mettre aucun frein a votre imagination et votre action envers vos amis, ceux qui actuellement sont vos proches, et ceux qui vont le devenir, proches et amis, par votre charité. Laissez vous transporter par l'Esprit, la Charité n'a aucune limite. Autant on pourrait abuser et devenir sectaire dans bien des domaines, notamment en imposant une vérité, mais en matière de charité, il n'y a pas de frontières.
+
+Il y a des centaines d'autres actes charitables essentiels non décrits dans Matthieu 25. A vous de les trouver avec l'Esprit de Dieu et de les appliquer a brule pourpoint ! Ecoute, soutien moral, soutien spirituel d'une part, amener la communion, offrir l'hospitalité, inviter au musée, faire découvrir la mer, aimer en vérité.
+
+## Qu'ont fait les autres pour vous ?
+
+Ma mère m'a élevé et supporté, et pardonné et plus encore,  
+Dieu m'a pardonné mes fautes plus de 70 fois 7 fois et m'a aimé,
+Marie m'a offert un tableau pour chez moi.  
+Laura m'a fait confiance dans la difficulté.
+Marie (une autre) s'est livrée à moi,  
+Aurélie a pris régulièrement des nouvelles quand j'étais pas bien récemment,  
+De nombreux amis dont Christophe sont allés me voir à l'hôpital quand j'y étais il y a quelques années,  
+Nathalie aussi s'est confiée a moi et mon écoute,  
+Mes petit frères sont rentrés dans tous mes délires ridicule de frère depuis leur naissance,  
+Mon beau-père a été un vrai Saint-Joseph,  
+Mon père m'a légué son second prénom, 
+Hélène m'offre la bière et la pizza plus régulièrement que de raison,  
+
+*MERCI*
+
+Vous comprenez que la liste peut être très longue et que je m'arrête a ses début. J'oublie tous ces qui m'ont aimé de prêt ou de loin, surtout eux.
+
+## Les ténèbres intérieures autrement appelées orgueil
+
+Peut être voyez vous ce que j'écris de différente manière :  
+- Tout cela, je l’ai observé : que me manque-t-il encore ? (Matthieu 19,20)
+- Tout cela, je veux l'observer, par ou on commence ?
+
+Ce qui précède on le verras sûrement plus tard.
+
+Et...
+
+- Tout cela, je l'observe déjà, quand est ce que ce livre me laissera la paix (me glorifiera).
+
+Vous aurez compris la subtilité entre la première et la dernière proposition.
+C'est ma vision de l'orgueil que je voudrait vous offrir, ma vision ponctuelle de mon orgueil, parce que c'est de moi que je m'inspire ici.
+
+## Tout se recoupe dans l'évangile. Ici selon saint Luc au chapitre 14
+
+> 16 Jésus lui dit : « Un homme donnait un grand dîner, et il avait invité beaucoup de monde.
+>
+> 17 À l’heure du dîner, il envoya son serviteur dire aux invités : “Venez, tout est prêt.”
+>
+> 18 Mais ils se mirent tous, unanimement, à s’excuser. Le premier lui dit : “J’ai acheté un champ, et je suis obligé d’aller le voir ; je t’en prie, excuse-moi.”
+>
+> 19 Un autre dit : “J’ai acheté cinq paires de bœufs, et je pars les essayer ; je t’en prie, excuse-moi.”
+>
+> 20 Un troisième dit : “Je viens de me marier, et c’est pourquoi je ne peux pas venir.”
+>
+> 21 De retour, le serviteur rapporta ces paroles à son maître. Alors, pris de colère, le maître de maison dit à son serviteur : “Dépêche-toi d’aller sur les places et dans les rues de la ville ; les pauvres, les estropiés, les aveugles et les boiteux, amène-les ici.”
+
+Vous allez dire qu'on parle encore d'aveugles, de pauvres et de malades, de prime abord. C'est bien de cela qu'il s'agit. L'orgueilleux se trouve bien portant, et même juste. Il ne reconnait pas sa petitesse - merci ici à sainte Thérèse de Lisieux. En fait, l'orgueilleux a même acheté cinq paires de boeufs plutôt que d'aller au repas du Seigneur !
+
+Vous allez dire qu'il ne fait pas affront totalement, mais qu'il se dérobe, ce n'est pas un orgueil frontal, donc. L'orgueil est insinué dans la personne qui ne voit plus son comportement. L'orgueilleux dit même *Je t'en prie, excuse moi !*, mais est-ce ici un vrai *Kyrie eleison* ? Je vous laisse y répondre.
+
+L'orgueil s'imice dans nos vies comme une douleur qui évolue à bas bruit qui finira par crier tôt ou tard.
+
+
