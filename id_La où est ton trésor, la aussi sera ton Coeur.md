@@ -15,6 +15,7 @@ Et cela ne fait pas de moi un être parfait qui aurait des dons supérieurs ou n
 Un soleil s’est levé sur ma vie. Ce soleil m’a sauvé. 
 
 ---
+
 La vie ne serait rien sans Dieu, elle ne vaudrait pas la peine, et d’ailleurs je plains les non-croyants dans leur néant avec pour seule compagnie leur iPhone. Moi aussi j’ai un iPhone je tape dessus maintenant. J’écrit ce texte pour mon seigneur, pour vous les rares qui peut être auront le cœur ouvert à cette lecture imparfaite. Vous feriez mieux de lire la bible, vous savez ? Elle est bien plus complète et même je dirai que cet ouvrage ici est néant. Mais j’insulte ma louange en disant cela. 
 ---
 Car ceci est une louange. Une louange. Oui. Ça se veut être une louange compliquée. Mais qui sort du cœur. Une louange qui dure. Depuis presque 5 ans cette louange ne fait que débuter. 

@@ -1,7 +1,9 @@
 # Aimer
  <!-- (quand les pilules ne nous suffiront plus et peut être bien avant) -->
 
-## Intro
+## 1, Pilot
+
+### Génèse
 
 J'ai le plaisir d'entamer cet ouvrage avec l'encouragement de notre Seigneur. Je m'explique : il y a bientot 5 ans j'ai commencé d'écrire un livre, et l'ampleur de la tache m'a perdue. Je ne suis pas un super écrivain. Ce livre parlait aussi de l'Amour de Dieu, thème imposé. Ainsi, le 7 janvier dernier à Saint Nicolas des Champs, et c'est encore aujourd'hui disponible sur YouTube, a été prononcée une parole de connaissance qui en somme encourage un écrivain qui voulait témoigner de l'Amour de Dieu et a abandonné, à reprendre son travail.
 
@@ -12,14 +14,16 @@ Je me reconnais dans cette personne.
 Je ne suis personne pour parler de l'Amour de Dieu. Tout le monde peut parler de l'Amour de Dieu. Je ne suis pas un super apôtre qui éviterait les péchés et aurait la connaissance, de Dieu qui plus est, infuse.
 Néanmoins, comme beaucoup, j'ai vécu des choses qui m'ont rapproché de Dieu, donc de l'Amour même.
 > Dieu est Amour  
-> (1 Jean 4,8).  
+> 
+> Première lettre de saint Jean au chapitre 4, verset 8  
 
 Ce verset aurait aussi bien pu être le titre de cet ouvrage.
 
-## Premier texte, premier souvenir
+### Premier texte, premier souvenir
 
- > L'ami aime en tout temps, Et dans le malheur il se montre un frère.  
- > (Proverbes 17 : 17)
+ > L'ami aime en tout temps, Et dans le malheur il se montre un frère.
+ >
+ > Proverbes 17,17
 
  Ainsi je ne limiterai pas ici l'Amour à l'Amour conjugal. J'en parlerai quand même.
 
@@ -35,7 +39,7 @@ Peut être que Jésus est venu me visiter pour la premiere fois, ce jour là.
 J'annonce la couleur par ce premier texte : je parlerai de "croire" avec "aimer", plus généralement de l'Amour de Dieu,
 > Car Dieu est Amour.
 
-## 2 Parabole au chapitre 18 de l'évangile selon saint Luc
+### Parabole au chapitre 18 de l'évangile selon saint Luc
 
 > 09 À l’adresse de certains qui étaient convaincus d’être justes et qui méprisaient les autres, Jésus dit la parabole que voici :
 >
@@ -54,7 +58,7 @@ Source : AELF
 J'ai été convaincu d'être juste alors que je méprisais les autres. C'est ma derniere conversion, de la semaine dernière, et je vous en parle comme un expert. Ce sont des pardons que j'ai été presque "obligé de donner" à des frères et soeurs. J'étais presque forcé par notre Seigneur, comme contraint. J'ai un peu (beaucoup) ouvert les yeux. Je ne sais pas encore si cette bienveillance va perdurer.  
 Je le souhaite.
 
-## l'Amour est notre solution
+### l'Amour est notre solution
 
 *Je m'étais renfermé.* Et quelles qu'en soient les raisons, il me fallait faire ce constat. Et le faire en d'autres termes aussi : quoi que j'en pense, j'étais bien plus ouvert aux autres auparavant. 
 Auparavant ? 
@@ -65,7 +69,8 @@ Mais alors, quelles que années plus tard, alors qu'il s'était très franchemen
 Et ainsi fut pour moi le verset suivant :
 
 > Si donc la lumière qui est en vous est ténèbres, quelles ténèbres !  
-> (Matthieu 6,22-23)
+> 
+> Evangile de Matthieu 6,22-23
 
 Ainsi, la solution a mes problèmes est de m'ouvrir à l'autre : d'aimer mon prochain. De redevenir celui que j'étais avant les ténèbres que me coeur ont préféré au Seigneur sans même s'en douter. Ou comment, après tout, l'Amour est ma véritable solution. Car voila des années que je le sais sans savoir l'appliquer.
 
@@ -75,7 +80,7 @@ Parce que oui, je suis sur ce chemin aujourd'hui, aussi sur que vous lisez ce li
 
 L'Amour est LA solution.
 
-## Je m'étais renfermé
+### Je m'étais renfermé
 
 ...tout simplement ! Claire serait folle si elle savait ça aujourd'hui !
 
@@ -93,7 +98,7 @@ Je m'étais juste... renfermé !
 
 Viens Esprit nous bénir en ce début de livre.
 
-## Sans moi vous ne pouvez rien faire (Evangile de Jean 15)
+### Sans moi vous ne pouvez rien faire - Evangile de Jean au chapitre 15
 
 Je cherche une maitresse femme mais que ne l'aurais-je si je reste sans amour a donner, ne sachant avancer sans pécher, sans perdre ma vie ? Existe t'elle au moins ou se confond-elle déja avec notre seigneur ?
 
@@ -103,20 +108,22 @@ Que ne te trouverais-je toi la douce, la sage, le coquelicot, le pavot de Califo
 
 Serais-tu à droite ? à gauche surement tu seras là. Quand tomberez-vous écailles, quand fanerez-vous, hallucinations !
 
-> Je sais ce que je vais faire  
+> Je sais ce que je vais faire
+> 
 > Evangile de Luc 16,04
 
 pour qu'une fois sorti de cette torpeur, je trouve ma destinée. *Je vais aimer mon prochain*
 Simple comme bonjour.
 
 > Ne pas me dérober a celui qui est ma propre chair  
+> 
 > Isaïe 58
 
 *La charité*. Mais pas seulement les pauvres. Tout le monde tant qu'ils m'invitent. Et je me ferai inviter. Il me reste toujours quelques tours dans mon sac, quelques graces impérissables du Seigneur.
 
 *La prière* qui ne cesse de grandir en moi. Merci Seigneur !
 
-## Remercier Dieu
+### Remercier Dieu
 
 Je n'invente rien. Remercier Dieu nous mène à toujours plus de bonheur, et ceci en vérité.
 
@@ -132,9 +139,10 @@ Tu me lis et tu ries, comme on regarde un enfant manger sa première purée apr�
 Seigneur, je ne suis donc pas encore parfait, il reste du chemin, Dieu merci !  
 *Je suis libre*
 
-## Libres
+### Libres
 
 > Le coeur de l'homme médite sa voie, mais c'est le Seigneur qui affermit ses pas.  
+> 
 > Proverbes 16,9
 
 Si comme le dis le pape François, le temps est supérieur à l'espace, alors votre liberté dans le temps est supérieure a celle que vous avez dans l'espace. Dessiner un chemin n'est pas si compliqué.  
@@ -146,22 +154,24 @@ Sachez qu'en toute liberté, vous et moi nous prenons actuellement la direction 
 > Ne pas me dérober a celui qui est ma propre chair  
 > (...)  
 > Alors ta lumière jaillira comme l'aurore.
+> 
 > Isaïe 58
 
-## L'aurore
+### L'aurore
 
 Une lumière vient de jaillir a la suite de ces textes pour moi. Pour certains d'entre vous une lueur peut être ou quelque chose de lumineux, une veilleuse. Une graine a été isolée, l'idée d'une charité joyeuse, un amour que Dieu sème qui passerait par nous les hommes.
 
 C'en est l'aurore. Ca veut dire que déja la graine a germé. Et elle cherche la lumière.  
 
 > « Que sera donc cet enfant ? » En effet, la main du Seigneur était avec lui.  
+> 
 > Luc 1,66
 
 C'est l'aurore et déjà la main du Seigneur est avec notre esprit qui grandit sous son regard. Il veut mener cette graine a terme, par votre liberté il le fera.
 
 Nous ne savons pas la finalité si ce n'est la gloire de Dieu. Nous ne savons ni le temps que cela prendra si ce n'est qu'*à chaque jour suffit sa peine*. Cherchons la lumière qui fera germer cette graine, le Royaume de Dieu.
 
-## Vas tu regretter de vivre ?
+### Vas tu regretter de vivre ?
 
 Mais a peine le gerbe vient de poindre, a peine la coquille d'oeuf est-elle fêlée, déja je vous entend crier un indiscible, imprononçable, ininscrivible cri. Mais en mon ame je le comprends. Ce cri, c'est votre soif de rester enterré.  
 Au fond, ca se justifierai par "Qu'est ce qui nous attends après ?" "Maintenant on souffre alors qu'on se rendais compte de rien avant". Epargne nos souffrances futures en somme ?  
@@ -170,7 +180,9 @@ Au fond, ca se justifierai par "Qu'est ce qui nous attends après ?" "Maintenant
 
 C'est un petit peu le rêve d'Adam et Eve de revenir au paradis, ce rêve qu'ils chérissaient, que vous mettez a bas en refusant d'aller vers les autres ; eux ont vécu l'inverse avec leur sortie du paradis terrestre car ils avaient écouté le serpent. La vous avez écouté un commandement de vie, l'Amour, aller vers l'autre et vous battez en retraite : "Nous préférons travailler dur pour notre subsistance, nous ne sommes rien pour aller vers les autres".
 
-*Et bien ce n'est pas un commandement nouveau que je vous donne : Aimez-vous les uns les autres comme Jésus vous a aimé.*
+> 07 Et bien ce n'est pas un commandement nouveau que je vous donne : Aimez-vous les uns les autres comme Jésus vous a aimé.
+>
+> Première lettre de saint Jean au chapitre 2
 
 Je sais, pour vous caresser dans le sens du poil, que ce chapitre vous a surpris et qu'aucun de vous, déjà, n'avait de telles intentions.
 
@@ -178,24 +190,24 @@ Je sais, pour vous caresser dans le sens du poil, que ce chapitre vous a surpris
 
 Je dis ça mais on en a tous des cartes bleues sans contact, ou presque.
 
-## Sortir de moi même
+### Sortir de moi même
 
-Redécouvrir les autres. Les permettre de s'exprimer. Ecouter. Ce n'est pas en parlant que l'on sort de soi même, je crois. Ecouter fera la différence, nos quelques mots comptent plus que ceux que nous aurions dit comme bavardage. Nous edifierons certainement plus en écoutant d'abord.
+Redécouvrir les autres. Leur permettre de s'exprimer. Ecouter. Ce n'est pas en parlant que l'on sort de soi même, je crois. Ecouter fera la différence, nos quelques mots comptent plus que ceux que nous aurions dit comme bavardage. Nous édifierons certainement plus en écoutant d'abord.
 
-Transformer un conversation amicale en écoute réciproque. Se recevoir de l'autre dans sa parole, sans trier d'abord, mais peut être relire avec Dieu nos rencontres avec un esprit bienveillant et faire la part des choses. Dans un même mouvement qu'un pardon, accueillir le bon et le mauvais sans vraiment savoir si c'est bon ou mauvais d'abord, sauf si c'est évident.
+Transformer un conversation amicale en écoute réciproque. Se recevoir de l'autre dans sa parole, sans trier d'abord, mais peut être relire avec Dieu nos rencontres avec un esprit bienveillant et faire la part des choses. Dans un même mouvement qu'un pardon naissant, accueillir le bon et le mauvais sans vraiment savoir si c'est bon ou mauvais d'abord, sauf si c'est évident.
 
 Réagir au minimum, juste pour signifier perceptiblement qu'on a compris, écouter, considérer. Ecouter c'est un peu aimer, comme donner mais autrement.
 
-## Sec
+### Sec
 
 Aller vers les autres ce n'est pas forcément faire le premier pas. C'est aussi accueillir et soutenir le pas de l'autre.
-Néanmoins souvent c'est faire le premier pas.
+Néanmoins souvent, c'est faire le premier pas.
 
 Aller vers les autres ce n'est pas parler a tout bout de champs. C'est écouter. Aller pour écouter.
-Néanmoins par là c'est annoncer le royaume.
+Néanmoins par là, c'est annoncer le royaume.
 
 Aller vers les autres ce n'est pas être triste d'aller vers le pauvre. C'est partager sa joie d'abord et la nôtre ensuite.
-Même si parfois il faudra essuyer quelques larmes.
+Même si parfois, il faudra essuyer quelques larmes.
 
 Aller vers les autres c'est assez simple, c'est répondre à l'appel pressent du Seigneur d'aller nous adresser à notre prochain parce que quelque chose chez lui nous interpelle. Ce quelque chose, c'est Dieu qui nous l'a mis en face comme un appas, source de conversation et source de ce qu'est l'autre.
 
@@ -205,9 +217,9 @@ Aller vers l'autre c'est enfin aller vers Dieu, dans :
 > Un entretien, souvent, seul à seul, avec celui dont nous savons qu'il nous aime.
 > Sainte Thérèse d'Avila.
 
-Mais la c'est Lui qui a le premier pas, toujours, comme dans toute démarche que nous faisons, il nous en donne l'impulsion,*Il nous scrute*, Psaume 8, mais nous veut libres et ne s'impose pas.
+Mais la c'est Lui qui a le premier pas, toujours, comme dans toute démarche que nous faisons, il nous en donne l'impulsion, *Il nous scrute*, Psaume 8, mais nous veut libres et ne s'impose pas.
 
-## Témoignage
+## 2, Témoignage
 
 J'ai été baptisé à l'adolescence en 2001. J'ai demandé le baptème après avoir vu une émission de télévision. Dans celle-ci la voix off disait que les personnes tenaient plus longtemps à vivre en prison lorsqu'elles avaient la foi.
 Je suis l'enfant de cette phrase, je n'ai jamais mis les pieds dans une prison.
@@ -218,17 +230,17 @@ Devant le constat que ma vie allait de mal en pis, début 2011, avec drogues, al
 
 Entre temps, a Noël, au repas familial, ma grand-mère avait dit en riant : "J'espere que vous allez devenir des veaux (dévôts)".
 
-Ainsi j'ai dépoussièré mon nouveau testament, hérité de mon baptème, en janvier 2011. Je l'avait ouvert pour découvrir deux évangiles en 2008. Aujourd'hui, j'aime le nouveau testament, grâce à la découverte que j'en ai fait ces années là. Ce mois de janvier, au fil des pages je me suis passionné pour l'ouvrage. Je l'ai lu une première fois et alors que je ne comprenais vraiment pas tout le contenu, je comprenais par l'Esprit que je n'avais jamais lu un si bon livre. Je ne suis pas un grand lecteur mais je sais apprécier un bon livre. Aujourd'hui je ne lis que la bible.
+Ainsi j'ai dépoussièré mon nouveau testament, hérité de mon baptème, en janvier 2011. Je l'avait ouvert pour découvrir deux évangiles déjà en 2008. Aujourd'hui, j'aime le nouveau testament, grâce à la découverte que j'en ai fait ces années là. Ce mois de janvier, au fil des pages je me suis passionné pour l'ouvrage. Je l'ai lu une première fois et alors que je ne comprenais vraiment pas tout le contenu, je comprenais par l'Esprit que je n'avais jamais lu un si bon livre. Je ne suis pas un grand lecteur mais je sais apprécier un bon livre. Aujourd'hui je ne lis que la bible.
 
-J'ai lu ce mois de janvier 2011 une deuxième fois le nouveau testament. Car j'avais versé une larme a la fin de la première lecture : il fallait que j'en comprenne plus. Puis le seigneur m'a invité a la lire une troisième fois.
+J'ai lu ce même mois de janvier 2011 une deuxième fois le nouveau testament. Car j'avais versé une larme a la fin de la première lecture : il fallait que j'en comprenne plus. Puis le seigneur m'a invité a la lire une troisième fois.
 
-A la première lecture de l'Apocalypse de Saint Jean, je ne pouvais pas me concentrer. J'entendais : "arrête de fumer, arrête de fumer !" à chaque mot. J'ai fait des essai et en 2013 j'ai réussi.
+A la première lecture de l'Apocalypse de Saint Jean, je ne pouvais pas me concentrer. J'entendais : "arrête de fumer, arrête de fumer !" à chaque mot. J'ai fait des essais, et en 2013 j'ai réussi.
 
-## Février 2011
+### Février 2011
 
 Anecdotique peut être, ce petit soleil dans mon coeur, cette lueur d'espoir qui ne me quittait pas après ces trois lectures du nouveau testament. Il a fait beau ce mois là à Bordeaux, un soleil a tout rompre, comme dans mon coeur.
 
-## Avril 2014
+### Avril 2014
 
 Trois ans après ce radieux mois de février, vint un évènement que je n'ose plus appeler "conversion" tellement je ne suis pas converti.
 
@@ -236,9 +248,9 @@ Je vais vous épargner tous les détails pour vous amener a l'essentiel.
 
 Le prêtre, dans une chapelle préparée et décorée pour et par des jeunes catholiques, tenait dans ses mains l'ostensoir et la divine hostie à l'intérieur. L'ostensoir devait rester 3 jours dans la chapelle, à exposer Jésus. Ce samedi 5 avril, une aube par dessus mes vêtements, j'accompagnais ce prêtre affublé d'un cierge avec un autre jeune homme, pour aller visiter chaque participant à l'évènement. Nous faisions partie de Jeunesse 2000, j'avais alors 27 ans.
 
-Le Christ se penchait devant chaque jeune le temps d'une prière. On pouvait observer diverses réactions de la part des jeunes. Des pleurs, du recueillement, des sourires traduisant la joie et la paix. Alors que Jésus avait fait le tour des personnes présentes il ne restait que les deux servants d'autel que nous étions. De loin encore, je regardais l'hostie et je sentis un regard électrique sur moi venant de l'hostie. Ce n'est pas le genre de chose que j'ai l'habitude de vivre. L'hostie raisonnablement ne peut avoir un regard que je ressens comme un regard. L'autre servant toucha le drap, le vêtement du Seigneur et en signe de demande de guérison - oui je suis malade - je fais la même chose a mon tour. C'est une demande de guérison car dans le 5ème chapitre de l'évangile de Marc, une femme touche le vêtement du seigneur pour être guérie, et elle l'est. Le Seigneur est même étonné de ce geste et en rajoute "Ma fille, ta foi t'a sauvée ; va en paix et sois guérie de ton infirmité".
+Le Christ "hostie" se penchait devant chaque jeune le temps d'une prière. On pouvait observer diverses réactions de la part des jeunes. Des pleurs, du recueillement, des sourires traduisant la joie et la paix. Alors que Jésus avait fait le tour des personnes présentes il ne restait que les deux servants d'autel que nous étions. De loin encore, je regardais l'hostie et je sentis un regard électrique sur moi venant de l'hostie. Ce n'est pas le genre de chose que j'ai l'habitude de vivre. L'hostie raisonnablement ne peut avoir un regard que je ressens comme un regard. L'autre servant toucha le drap, le vêtement du Seigneur et en signe de demande de guérison - oui je suis malade - je fais la même chose a mon tour. C'est une demande de guérison car dans le 5ème chapitre de l'évangile de Marc, une femme touche le vêtement du seigneur pour être guérie, et elle l'est. Le Seigneur est même étonné de ce geste et en rajoute "Ma fille, ta foi t'a sauvée ; va en paix et sois guérie de ton infirmité".
 
-## Voici mon coeur
+### Voici mon coeur
 
 Alors un Amour comme jamais je n'en ai ressenti ailleurs s'est déversé en moi et j'ai cru.
 
@@ -248,7 +260,7 @@ Je suis resté béat sans bouger la main droite devant la bouche en inspirant, c
 
 7 ans plus tard ce moment marque toujours ma vie. Mais je crois que ce n'est pas vraiment ça ma conversion. La conversion c'est plus tard. Jusqu'ici j'ai ouvert les yeux et j'ai cru en Dieu. Mais je n'ai pas cessé mon mauvais comportement complètement.
 
-## Dieu m'a toujours donné la force, dans toutes mes difficultés, jusqu'à aujourd'hui.
+### Dieu m'a toujours donné la force, dans toutes mes difficultés, jusqu'à aujourd'hui.
 
 Il y a eu des moments difficiles comme tout le monde, ou je me croyais dépassé par les évènements, mais j'ai tenu, et je tiendrai si Dieu le veut encore. Jusqu'à ce que décision se fasse pour moi, moment fatidique ou je serai libre, ou l'inverse mais je crois que j'arriverai a la liberté.
 
@@ -258,7 +270,9 @@ Je ne suis pas un expert. Mais je crois quand même comprendre qu'il se mène av
 
 Et pour vous comme pour moi cela va passer par aller vers le prochain activement.
 
-## Aller vers les autres est un raccourcis / Evangile selon saint Marc 12,28-34
+## 3, Aller vers les autres est un raccourcis
+
+### Evangile selon saint Marc 12,28-34
 
 > 28 Un scribe qui avait entendu la discussion, et remarqué que Jésus avait bien répondu, s’avança pour lui demander : « Quel est le premier de tous les commandements ? »
 >
@@ -276,66 +290,67 @@ Et pour vous comme pour moi cela va passer par aller vers le prochain activement
 
 Source : AELF
 
-## Ce qu'il est peut être nécéssaire de préciser
+### Ce qu'il est peut être nécéssaire de préciser
 
 Ma hantise ce serait de multiplier ici les explications d'évangile sans le vivre. Ainsi j'estime que vous avez compris ce qu'on vient de lire, d'une vision qui vous est propre. Que l'Esprit de Dieu vous instruit, et mieux que je ne le ferai. Ainsi je ne commenterai pas l'évangile. Le rapport qu'il a avec le texte suffit, et l'esprit vous instruit comme une continuité.
 
 > Quant à vous, l’onction que vous avez reçue de lui demeure en vous, et vous n’avez pas besoin d’enseignement. Cette onction vous enseigne toutes choses, elle qui est vérité et non pas mensonge ; et, selon ce qu’elle vous a enseigné, vous demeurez en lui.  
+> 
 > Premier épitre de Jean 2,27
 
-## Jésus a néanmoins expliqué une fois la parabole du semeur
+### Jésus a néanmoins expliqué une fois la parabole du semeur
 
-Je ferai donc exception parce que c'est le point central de ce texte : 
+Je ferai donc exception parce que ces deux commandements sont le point central de ce texte : 
 
 *Si nous faisons de notre leitmotiv l'ouverture aux autres et avons comme but leur rencontre, alors nous allons vers l'Amour du prochain, donc l'Amour de Dieu*
 
 C'est assez simple théoriquement, mais nous allons illustrer cela encore par l'évangile, encore une fois, pour saisir le coté pratique des choses. 
 
-## Evangile de Matthieu 25,31-46
+### Evangile de Matthieu 25,31-46
 
-31 « Quand le Fils de l’homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire.
+> 31 « Quand le Fils de l’homme viendra dans sa gloire, et tous les anges avec lui, alors il siégera sur son trône de gloire.
+>
+> 32 Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs :
+>
+> 33 il placera les brebis à sa droite, et les boucs à gauche.
+>
+> 34 Alors le Roi dira à ceux qui seront à sa droite : “Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde.
+> 
+> 35 Car j’avais faim, et vous m’avez donné à manger ; j’avais soif, et vous m’avez donné à boire ; j’étais un étranger, et vous m’avez accueilli ;
+> 
+> 36 j’étais nu, et vous m’avez habillé ; j’étais malade, et vous m’avez visité ; j’étais en prison, et vous êtes venus jusqu’à moi !”
+>
+> 37 Alors les justes lui répondront : “Seigneur, quand est-ce que nous t’avons vu… ? tu avais donc faim, et nous t’avons nourri ? tu avais soif, et nous t’avons donné à boire ?
+>
+> 38 tu étais un étranger, et nous t’avons accueilli ? tu étais nu, et nous t’avons habillé ?
+>
+> 39 tu étais malade ou en prison… Quand sommes-nous venus jusqu’à toi ?”
+>
+> 40 Et le Roi leur répondra : “Amen, je vous le dis : chaque fois que vous l’avez fait à l’un de ces plus petits de mes frères, c’est à moi que vous l’avez fait.”
+> 
+> 41 Alors il dira à ceux qui seront à sa gauche : “Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges.
+>
+> 42 Car j’avais faim, et vous ne m’avez pas donné à manger ; j’avais soif, et vous ne m’avez pas donné à boire ;
+>
+> 43 j’étais un étranger, et vous ne m’avez pas accueilli ; j’étais nu, et vous ne m’avez pas habillé ; j’étais malade et en prison, et vous ne m’avez pas visité.”
+>
+> 44 Alors ils répondront, eux aussi : “Seigneur, quand t’avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?”
+>
+> 45 Il leur répondra : “Amen, je vous le dis : chaque fois que vous ne l’avez pas fait à l’un de ces plus petits, c’est à moi que vous ne l’avez pas fait.”
+>
+> 46 Et ils s’en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. »
 
-32 Toutes les nations seront rassemblées devant lui ; il séparera les hommes les uns des autres, comme le berger sépare les brebis des boucs :
+### Vous avez bien compris cette page d'évangile
 
-33 il placera les brebis à sa droite, et les boucs à gauche.
-
-34 Alors le Roi dira à ceux qui seront à sa droite : “Venez, les bénis de mon Père, recevez en héritage le Royaume préparé pour vous depuis la fondation du monde.
-
-35 Car j’avais faim, et vous m’avez donné à manger ; j’avais soif, et vous m’avez donné à boire ; j’étais un étranger, et vous m’avez accueilli ;
-
-36 j’étais nu, et vous m’avez habillé ; j’étais malade, et vous m’avez visité ; j’étais en prison, et vous êtes venus jusqu’à moi !”
-
-37 Alors les justes lui répondront : “Seigneur, quand est-ce que nous t’avons vu… ? tu avais donc faim, et nous t’avons nourri ? tu avais soif, et nous t’avons donné à boire ?
-
-38 tu étais un étranger, et nous t’avons accueilli ? tu étais nu, et nous t’avons habillé ?
-
-39 tu étais malade ou en prison… Quand sommes-nous venus jusqu’à toi ?”
-
-40 Et le Roi leur répondra : “Amen, je vous le dis : chaque fois que vous l’avez fait à l’un de ces plus petits de mes frères, c’est à moi que vous l’avez fait.”
-
-41 Alors il dira à ceux qui seront à sa gauche : “Allez-vous-en loin de moi, vous les maudits, dans le feu éternel préparé pour le diable et ses anges.
-
-42 Car j’avais faim, et vous ne m’avez pas donné à manger ; j’avais soif, et vous ne m’avez pas donné à boire ;
-
-43 j’étais un étranger, et vous ne m’avez pas accueilli ; j’étais nu, et vous ne m’avez pas habillé ; j’étais malade et en prison, et vous ne m’avez pas visité.”
-
-44 Alors ils répondront, eux aussi : “Seigneur, quand t’avons-nous vu avoir faim, avoir soif, être nu, étranger, malade ou en prison, sans nous mettre à ton service ?”
-
-45 Il leur répondra : “Amen, je vous le dis : chaque fois que vous ne l’avez pas fait à l’un de ces plus petits, c’est à moi que vous ne l’avez pas fait.”
-
-46 Et ils s’en iront, ceux-ci au châtiment éternel, et les justes, à la vie éternelle. »
-
-## Vous avez bien compris cette page d'évangile
-
-Vous allez me dire que je suis monté en gradation. D'abord il s'agissait d'aimer les autres, d'aller vers eux et d'être tourné vers eux. Maintenant il faudrait les soigner, les visiter, les vêtir, leur donner à boire et à manger.
+Vous allez me dire que je suis monté en gradation. D'abord il s'agissait d'aimer les autres, d'aller vers eux et d'être tourné vers eux. Maintenant il faudrait les soigner, les visiter, les vêtir, leur donner à boire et à manger, les accueillir.
 
 Ce à quoi je répond oui.
 
-Je ne veux mettre aucun frein a votre imagination et votre action envers vos amis, ceux qui actuellement sont vos proches, et ceux qui vont le devenir, proches et amis, par votre charité. Laissez vous transporter par l'Esprit, la Charité n'a aucune limite. Autant on pourrait abuser et devenir sectaire dans bien des domaines, notamment en imposant une vérité, mais en matière de charité, il n'y a pas de frontières.
+Je ne veux mettre aucun frein a votre imagination et votre action envers vos amis, ceux qui actuellement sont vos proches, et ceux qui vont devenir vos proches et vos amis, par votre charité. Laissez vous transporter par l'Esprit, la Charité n'a aucune limite. Autant on pourrait abuser et devenir sectaire dans bien des domaines, notamment en imposant une vérité, mais en matière de charité, il n'y a pas de frontières.
 
 Il y a des centaines d'autres actes charitables essentiels non décrits dans Matthieu 25. A vous de les trouver avec l'Esprit de Dieu et de les appliquer a brule pourpoint ! Ecoute, soutien moral, soutien spirituel d'une part, amener la communion, offrir l'hospitalité, inviter au musée, faire découvrir la mer, aimer en vérité.
 
-## Qu'ont fait les autres pour vous ?
+### Qu'ont fait les autres pour vous ?
 
 Ma mère m'a élevé et supporté, et pardonné et plus encore,  
 Dieu m'a pardonné mes fautes plus de 70 fois 7 fois et m'a aimé,
@@ -354,11 +369,13 @@ Hélène m'offre la bière et la pizza plus régulièrement que de raison,
 
 Vous comprenez que la liste peut être très longue et que je m'arrête a ses début. J'oublie tous ces qui m'ont aimé de prêt ou de loin, surtout eux.
 
-## Les ténèbres intérieures autrement appelées orgueil
+## 4, Les ténèbres intérieures 
+
+### Autrement appelées orgueil
 
 Peut être voyez vous ce que j'écris de différente manière :  
 - Tout cela, je l’ai observé : que me manque-t-il encore ? (Matthieu 19,20)
-- Tout cela, je veux l'observer, par ou on commence ?
+- Tout cela, je veux l'observer, par où on commence ?
 
 Ce qui précède on le verras sûrement plus tard.
 
@@ -369,7 +386,7 @@ Et...
 Vous aurez compris la subtilité entre la première et la dernière proposition.
 C'est ma vision de l'orgueil que je voudrait vous offrir, ma vision ponctuelle de mon orgueil, parce que c'est de moi que je m'inspire ici.
 
-## Tout se recoupe dans l'évangile. Ici selon saint Luc au chapitre 14
+### Tout se recoupe dans l'évangile. Ici selon saint Luc au chapitre 14
 
 > 16 Jésus lui dit : « Un homme donnait un grand dîner, et il avait invité beaucoup de monde.
 >
@@ -389,9 +406,9 @@ Vous allez dire qu'il ne fait pas affront totalement, mais qu'il se dérobe, ce 
 
 L'orgueil s'imice dans nos vies comme une douleur qui évolue à bas bruit qui finira par crier tôt ou tard.
 
-## Préoccupation de Jésus au chapitre 13 de saint Luc
+### Préoccupation de Jésus au chapitre 13 de saint Luc
 
-Vous remarquerez que Jésus ne parle pas directement de l'orgueil : il n'emploie pas le mot. Seulement a plusieurs reprise dans les évangiles synoptiques il emploie les mots d'Isaïe après la parabole du semeur :
+Vous remarquerez que Jésus ne parle pas directement de l'orgueil : il n'emploie pas vraiment le mot. Seulement a plusieurs reprise dans les évangiles synoptiques il emploie les mots d'Isaïe après la parabole du semeur :
 
 > 11 Il leur répondit : « À vous il est donné de connaître les mystères du royaume des Cieux, mais ce n’est pas donné à ceux-là.
 > 
@@ -419,9 +436,9 @@ La préoccupation de Jésus, c'est nous !
 
 Et notre préoccupation, ça doit être les paroles de Jésus, les mêmes qui dans Matthieu 25 nous disaient de s'occuper de Lui-même dans le pauvre, l'affamé, l'assoiffé et le prisonnier.
 
-## Notre garantie
+### Notre garantie
 
-Notre garantie c'est la parole de Dieu. J'irai même plus loin en disant que la garantie de notre amour, c'est de la mettre en pratique.
+Notre garantie c'est la parole de Dieu. J'irai même plus loin en disant que la garantie de notre amour, c'est de mettre en pratique la parole de Dieu.
 
 Ainsi au chapitre 7 de saint Matthieu :
 
@@ -453,9 +470,11 @@ Et enfin Saint Matthieu au chapitre 12 :
 >
 > 50 Car celui qui fait la volonté de mon Père qui est aux cieux, celui-là est pour moi un frère, une sœur, une mère. »
 
-Notre garantie c'est la parole de Dieu qui nous envoit a chaque verset a la rencontre de l'autre. Et ici je vous propose une simple alternative à nos souffrances : le retour vers l'autre.
+Notre garantie c'est la parole de Dieu qui nous envoit a chaque verset a la rencontre de l'autre. Et ici je vous propose une simple alternative à nos souffrances loin de la parole de Dieu : le retour vers l'autre.
 
-## Le retour vers l'autre : Jean 15,12-14
+## 5, Le retour vers l'autre
+
+### Evangile de Jean au chapitre 15,12-14
 
 Ce n'est autre qu'appliquer le commandement de Jésus avant sa passion. 
 
@@ -465,11 +484,11 @@ Ce n'est autre qu'appliquer le commandement de Jésus avant sa passion.
 >
 > 14 Vous êtes mes amis si vous faites ce que je vous commande.
 
-C'est un retour parce que ca demande de faire un retour sur la vie de Jésus, une relecture de ce qu'il a posé comme acte pour aimer, notamment sa kénose : sa descente sur Terre auprès de nous, depuis les cieux, et tout ce qu'il a fait parmi les hommes du début a la fin des temps.
+C'est un retour parce que ca demande de faire un retour sur la vie de Jésus, une relecture de ce qu'il a posé comme acte pour aimer, notamment sa kénose : sa descente sur Terre auprès de nous, depuis les cieux, et tout ce qu'il a fait parmi les hommes du début à la fin des temps.
 
-C'est un retour sur notre propre expérience d'amour aussi. Car Nous voyons bien que nous n'aimons pas comme Jésus.
+C'est un retour sur notre propre expérience d'amour aussi. Car nous voyons bien que nous n'aimons pas comme Jésus.
 
-C'est enfin un retour vers l'autre, avec une attitude ajustée à l'autre et à ce que Jésus nous demande : aimer comme il aime.
+C'est enfin un retour vers l'autre, avec une attitude ajustée à lui et à ce que Jésus nous demande : aimer comme il aime.
 
 Et il clot tout débat nous concernant, juste après, au verset 17 :
 
@@ -477,7 +496,7 @@ Et il clot tout débat nous concernant, juste après, au verset 17 :
 
 Là on pourrait dire que Jésus a tout dit, sauf qu'en suivant il va illustrer son propos en se livrant et en mourrant de sa mort sur la croix en total accord avec son Père afin de nous sauver.
 
-Jésus a Gethsémani a concrétisé l'appel de son Père à s'offrir en victime d'holocauste. Dieu sauve. Rien ne l'y obligeai mais il voulait faire la volonté de son Père. Jésus est libre et en toute confiance il se donne. Mais pas sans sacrifice.
+Jésus a Gethsémani a concrétisé l'appel de son Père à s'offrir en victime d'holocauste. Dieu sauve. Rien ne l'y obligeai mais il voulait faire la volonté de son Père. Jésus est libre et en toute confiance il se donne. Mais pas sans sacrifice donc.
 
 Je laisse la parole à saint Paul aux Romains au chapitre 5 :
 
@@ -489,9 +508,15 @@ Je laisse la parole à saint Paul aux Romains au chapitre 5 :
 
 Et la kénose du Christ se termine ici. Un élan prodigieux vers l'Homme, un appel des hommes, et un amour de chacun inégalé. Jésus est mort pour chacun de nous.
 
-Ainsi je m'avance un peu, toujours avec saint Paul, aux Corinthiens dans sa première lettre au chapitre 12 :
-
-> 13 C’est dans un unique Esprit, en effet, que nous tous, Juifs ou païens, esclaves ou hommes libres, nous avons été baptisés pour former un seul corps. Tous, nous avons été désaltérés par un unique Esprit.
-
 MERCI Seigneur Jésus.
+
+### Imperceptible
+
+S'ouvrir aux autres est imperceptible.
+
+> On ne dira pas : “Voilà, il est ici !” ou bien : “Il est là !” En effet, voici que le règne de Dieu est au milieu de vous. »
+> 
+> Evangile de Luc 17,21
+
+En d'autres terme vous n'êtes pas arrivés ! On n'est jamais assez ouvert au prochain !
 
