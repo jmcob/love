@@ -383,10 +383,8 @@ C'est ma vision de l'orgueil que je voudrait vous offrir, ma vision ponctuelle d
 >
 > 21 De retour, le serviteur rapporta ces paroles à son maître. Alors, pris de colère, le maître de maison dit à son serviteur : “Dépêche-toi d’aller sur les places et dans les rues de la ville ; les pauvres, les estropiés, les aveugles et les boiteux, amène-les ici.”
 
-Vous allez dire qu'on parle encore d'aveugles, de pauvres et de malades, de prime abord. C'est bien de cela qu'il s'agit. L'orgueilleux se trouve bien portant, et même juste. Il ne reconnait pas sa petitesse - merci ici à sainte Thérèse de Lisieux. En fait, l'orgueilleux a même acheté cinq paires de boeufs plutôt que d'aller au repas du Seigneur !
+Vous allez dire qu'on parle encore d'aveugles, de pauvres et de malades, de prime abord. C'est bien de cela qu'il s'agit. L'orgueilleux se trouve juste et grand. Il ne reconnait pas sa petitesse - merci ici à sainte Thérèse de Lisieux. En fait, l'orgueilleux a même acheté cinq paires de boeufs plutôt que d'aller au repas du Seigneur !
 
 Vous allez dire qu'il ne fait pas affront totalement, mais qu'il se dérobe, ce n'est pas un orgueil frontal, donc. L'orgueil est insinué dans la personne qui ne voit plus son comportement. L'orgueilleux dit même *Je t'en prie, excuse moi !*, mais est-ce ici un vrai *Kyrie eleison* ? Je vous laisse y répondre.
 
 L'orgueil s'imice dans nos vies comme une douleur qui évolue à bas bruit qui finira par crier tôt ou tard.
-
-
