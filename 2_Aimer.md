@@ -1,9 +1,9 @@
 # Aimer
- <!-- (quand les pilules ne nous suffiront plus) -->
+ <!-- (quand les pilules ne nous suffiront plus et peut être bien avant) -->
 
 ## Intro
 
-J'ai le plaisir d'entamer cet ouvrage avec l'encouragement de notre Seigneur. Je m'explique : il y a bientot 5 ans j'ai commencé d'écrire un livre, et l'ampleur de la tache m'a perdue. Je ne suis pas un super écrivain. Ce livre parlait aussi de l'Amour de Dieu, thème imposé : le 7 janvier dernier à Saint Nicolas des Champs, et c'est encore aujourd'hui disponible sur YouTube, a été prononcée une parole de connaissance qui en somme encourage un écrivain qui voulait témoigner de l'Amour de Dieu et a abandonné, à reprendre son travail.
+J'ai le plaisir d'entamer cet ouvrage avec l'encouragement de notre Seigneur. Je m'explique : il y a bientot 5 ans j'ai commencé d'écrire un livre, et l'ampleur de la tache m'a perdue. Je ne suis pas un super écrivain. Ce livre parlait aussi de l'Amour de Dieu, thème imposé. Ainsi, le 7 janvier dernier à Saint Nicolas des Champs, et c'est encore aujourd'hui disponible sur YouTube, a été prononcée une parole de connaissance qui en somme encourage un écrivain qui voulait témoigner de l'Amour de Dieu et a abandonné, à reprendre son travail.
 
 Ceci peut s'écouter à la minute 56 de la vidéo suivante : <https://youtu.be/k5fhSlJ1ThY>
 
@@ -388,3 +388,110 @@ Vous allez dire qu'on parle encore d'aveugles, de pauvres et de malades, de prim
 Vous allez dire qu'il ne fait pas affront totalement, mais qu'il se dérobe, ce n'est pas un orgueil frontal, donc. L'orgueil est insinué dans la personne qui ne voit plus son comportement. L'orgueilleux dit même *Je t'en prie, excuse moi !*, mais est-ce ici un vrai *Kyrie eleison* ? Je vous laisse y répondre.
 
 L'orgueil s'imice dans nos vies comme une douleur qui évolue à bas bruit qui finira par crier tôt ou tard.
+
+## Préoccupation de Jésus au chapitre 13 de saint Luc
+
+Vous remarquerez que Jésus ne parle pas directement de l'orgueil : il n'emploie pas le mot. Seulement a plusieurs reprise dans les évangiles synoptiques il emploie les mots d'Isaïe après la parabole du semeur :
+
+> 11 Il leur répondit : « À vous il est donné de connaître les mystères du royaume des Cieux, mais ce n’est pas donné à ceux-là.
+> 
+> 12 À celui qui a, on donnera, et il sera dans l’abondance ; à celui qui n’a pas, on enlèvera même ce qu’il a.
+>
+> 13 Si je leur parle en paraboles, c’est parce qu’ils regardent sans regarder, et qu’ils écoutent sans écouter ni comprendre.
+>
+> 14 Ainsi s’accomplit pour eux la prophétie d’Isaïe : Vous aurez beau écouter, vous ne comprendrez pas. Vous aurez beau regarder, vous ne verrez pas.
+>
+> 15 Le cœur de ce peuple s’est alourdi : ils sont devenus durs d’oreille, ils se sont bouché les yeux, de peur que leurs yeux ne voient, que leurs oreilles n’entendent, que leur cœur ne comprenne, qu’ils ne se convertissent, – et moi, je les guérirai.
+>
+> 16 Mais vous, heureux vos yeux puisqu’ils voient, et vos oreilles puisqu’elles entendent !
+
+La préoccupation de Jésus c'est que nous sortions de nos ténèbres et nos enfermements, et ce en y allant activement, le regard vers Lui. Il ne cherche pas à ce que nous luttions par nous même contre les obscurités de nos êtres. Il nous en fait prendre conscience, pour que nous avancions vers Lui. C'est Lui qui s'occupe de nos ténèbres.
+
+> Si donc la lumière qui est en toi est ténèbres, comme elles seront grandes, les ténèbres !  
+> Matthieu 6,23
+
+Mais ces ténèbres, je crois que nous les voyons rarement en face. Et heureusement. Par contre Jésus les voit, et nous sommes appelés a le voir, Lui.
+
+La préoccupation de Jésus, c'est nous ! 
+
+> 33 Le ciel et la terre passeront, mes paroles ne passeront pas.
+> Evangile de Luc 21,33
+
+Et notre préoccupation, ça doit être les paroles de Jésus, les mêmes qui dans Matthieu 25 nous disaient de s'occuper de Lui-même dans le pauvre, l'affamé, l'assoiffé et le prisonnier.
+
+## Notre garantie
+
+Notre garantie c'est la parole de Dieu. J'irai même plus loin en disant que la garantie de notre amour, c'est de la mettre en pratique.
+
+Ainsi au chapitre 7 de saint Matthieu :
+
+> 24 Ainsi, celui qui entend les paroles que je dis là et les met en pratique est comparable à un homme prévoyant qui a construit sa maison sur le roc.
+>
+> 25 La pluie est tombée, les torrents ont dévalé, les vents ont soufflé et se sont abattus sur cette maison ; la maison ne s’est pas écroulée, car elle était fondée sur le roc.
+> 
+> 26 Et celui qui entend de moi ces paroles sans les mettre en pratique est comparable à un homme insensé qui a construit sa maison sur le sable.
+> 
+> 27 La pluie est tombée, les torrents ont dévalé, les vents ont soufflé, ils sont venus battre cette maison ; la maison s’est écroulée, et son écroulement a été complet. »
+
+Puis saint Jacques au chapitre 1 :
+
+> 22 Mettez la Parole en pratique, ne vous contentez pas de l’écouter : ce serait vous faire illusion.
+>
+> 23 Car si quelqu’un écoute la Parole sans la mettre en pratique, il est comparable à un homme qui observe dans un miroir son visage tel qu’il est,
+> 
+> 24 et qui, aussitôt après, s’en va en oubliant comment il était.
+>
+> 25 Au contraire, celui qui se penche sur la loi parfaite, celle de la liberté, et qui s’y tient, lui qui l’écoute non pour l’oublier, mais pour la mettre en pratique dans ses actes, celui-là sera heureux d’agir ainsi.
+
+Et enfin Saint Matthieu au chapitre 12 :
+
+> 47 Quelqu’un lui dit : « Ta mère et tes frères sont là, dehors, qui cherchent à te parler. »
+>
+> 48 Jésus lui répondit : « Qui est ma mère, et qui sont mes frères ? »
+> 
+> 49 Puis, étendant la main vers ses disciples, il dit : « Voici ma mère et mes frères.
+>
+> 50 Car celui qui fait la volonté de mon Père qui est aux cieux, celui-là est pour moi un frère, une sœur, une mère. »
+
+Notre garantie c'est la parole de Dieu qui nous envoit a chaque verset a la rencontre de l'autre. Et ici je vous propose une simple alternative à nos souffrances : le retour vers l'autre.
+
+## Le retour vers l'autre : Jean 15,12-14
+
+Ce n'est autre qu'appliquer le commandement de Jésus avant sa passion. 
+
+> 12 Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aimés.
+>
+> 13 Il n’y a pas de plus grand amour que de donner sa vie pour ceux qu’on aime.
+>
+> 14 Vous êtes mes amis si vous faites ce que je vous commande.
+
+C'est un retour parce que ca demande de faire un retour sur la vie de Jésus, une relecture de ce qu'il a posé comme acte pour aimer, notamment sa kénose : sa descente sur Terre auprès de nous, depuis les cieux, et tout ce qu'il a fait parmi les hommes du début a la fin des temps.
+
+C'est un retour sur notre propre expérience d'amour aussi. Car Nous voyons bien que nous n'aimons pas comme Jésus.
+
+C'est enfin un retour vers l'autre, avec une attitude ajustée à l'autre et à ce que Jésus nous demande : aimer comme il aime.
+
+Et il clot tout débat nous concernant, juste après, au verset 17 :
+
+> 17 Voici ce que je vous commande : c’est de vous aimer les uns les autres.
+
+Là on pourrait dire que Jésus a tout dit, sauf qu'en suivant il va illustrer son propos en se livrant et en mourrant de sa mort sur la croix en total accord avec son Père afin de nous sauver.
+
+Jésus a Gethsémani a concrétisé l'appel de son Père à s'offrir en victime d'holocauste. Dieu sauve. Rien ne l'y obligeai mais il voulait faire la volonté de son Père. Jésus est libre et en toute confiance il se donne. Mais pas sans sacrifice.
+
+Je laisse la parole à saint Paul aux Romains au chapitre 5 :
+
+> 06 Alors que nous n’étions encore capables de rien, le Christ, au temps fixé par Dieu, est mort pour les impies que nous étions.
+>
+> 07 Accepter de mourir pour un homme juste, c’est déjà difficile ; peut-être quelqu’un s’exposerait-il à mourir pour un homme de bien.
+>
+> 08 Or, la preuve que Dieu nous aime, c’est que le Christ est mort pour nous, alors que nous étions encore pécheurs.
+
+Et la kénose du Christ se termine ici. Un élan prodigieux vers l'Homme, un appel des hommes, et un amour de chacun inégalé. Jésus est mort pour chacun de nous.
+
+Ainsi je m'avance un peu, toujours avec saint Paul, aux Corinthiens dans sa première lettre au chapitre 12 :
+
+> 13 C’est dans un unique Esprit, en effet, que nous tous, Juifs ou païens, esclaves ou hommes libres, nous avons été baptisés pour former un seul corps. Tous, nous avons été désaltérés par un unique Esprit.
+
+MERCI Seigneur Jésus.
+
