@@ -1,9 +1,11 @@
-# Aimer
+Aimer
+
+# Partie 1 : La rencontre
  <!-- (quand les pilules ne nous suffiront plus et peut être bien avant) -->
 
-## 1, Pilot
+## 1, Génèse
 
-### Génèse
+### Pilot
 
 J'ai le plaisir d'entamer cet ouvrage avec l'encouragement de notre Seigneur. Je m'explique : il y a bientot 5 ans j'ai commencé d'écrire un livre, et l'ampleur de la tache m'a perdue. Je ne suis pas un super écrivain. Ce livre parlait aussi de l'Amour de Dieu, thème imposé. Ainsi, le 7 janvier dernier à Saint Nicolas des Champs, et c'est encore aujourd'hui disponible sur YouTube, a été prononcée une parole de connaissance qui en somme encourage un écrivain qui voulait témoigner de l'Amour de Dieu et a abandonné, à reprendre son travail.
 
@@ -518,5 +520,6 @@ S'ouvrir aux autres est imperceptible.
 > 
 > Evangile de Luc 17,21
 
-En d'autres terme vous n'êtes pas arrivés ! On n'est jamais assez ouvert au prochain !
+En d'autres terme nous ne sommes pas arrivés ! On n'est jamais assez ouvert au prochain !
+
 
