@@ -1,7 +1,6 @@
-# Le contact, le goût.
+# Partie 2 : le contact, le goût.
 
-
-## touch > altérité  > incarnation
+## touch > altérité > incarnation
 
 Finalement viens le temps du contact après cette rencontre. C'est le temps pour moi de la délicatesse et du pardon. J'annonce la couleur car je ne sais pas vraiment comment amener ces deux notions autrement.
 
@@ -39,5 +38,6 @@ Jésus n'est pas "descendu" sur Terre pour remettre les pendules à l'heure sur 
 >
 > 35 C’est ainsi que mon Père du ciel vous traitera, si chacun de vous ne pardonne pas à son frère du fond du cœur. »
 
-Cette fois je vais vous dire comment je lis : le pardon est à nous, point. Non pas que nous soyons pardonnés, pas seulement. Mais que nous pouvons pardonner les torts et les dettes qui nous sont faites. Comme notre Seigneur. C'est même notre devoir de chrétien.
-Pardonner les friction de notre altérité d'abord, les petites agressions de la vie quotidiennes. Et les tentatives mal conclues d'ouvertures vers l'autre. Les malentendus, les quiproquos, les blessures tout simplement.
+Cette fois je vais vous dire comment je lis : le pardon est à nous, point. Non pas que nous soyons pardonnés, pas seulement. Mais que nous pouvons pardonner les torts et les dettes qui nous sont faites. Comme notre Seigneur. C'est même notre devoir de chrétien.  
+
+Pardonner les frictions de notre altérité d'abord, les petites agressions de la vie quotidiennes. Et les tentatives mal conclues d'ouvertures vers l'autre. Les malentendus, les quiproquos, les petites blessures tout simplement.

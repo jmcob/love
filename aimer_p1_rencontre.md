@@ -522,4 +522,14 @@ S'ouvrir aux autres est imperceptible.
 
 En d'autres terme nous ne sommes pas arrivés ! On n'est jamais assez ouvert au prochain !
 
+Je résume cette courte vision de la rencontre : si Dieu a toutes les initiatives dans la rencontre envers les hommes, il nous faut lui répondre un *oui* que nous n'avons pas traité ici.
+En revanche, ce *oui* étant dit, la rencontre envers les autres hommes nous incombent, *faisant de nous des Dieux*.
 
+## Le Oui
+
+Je vous dirai de répondre à cette question, sans trop vous influencer, à la lecture de cette première partie.
+
+Croyez que notre Seigneur vient à vous en cet instant et vous demande par la question suivante de renouveller votre Amour vers lui ou de l'initier.
+Il me laisse la plume et j'ose écrire la question suivante :  
+
+> Veux-tu, lecteur, faire la première place au Seigneur dans ta vie : dans ton coeur, dans ton âme, dans ton esprit, dans tes décisions, et ainsi L'aimer de toute ta force ?
