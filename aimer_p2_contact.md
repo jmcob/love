@@ -41,3 +41,7 @@ Jésus n'est pas "descendu" sur Terre pour remettre les pendules à l'heure sur 
 Cette fois je vais vous dire comment je lis : le pardon est à nous, point. Non pas que nous soyons pardonnés, pas seulement. Mais que nous pouvons pardonner les torts et les dettes qui nous sont faites. Comme notre Seigneur. C'est même notre devoir de chrétien.  
 
 Pardonner les frictions de notre altérité d'abord, les petites agressions de la vie quotidiennes. Et les tentatives mal conclues d'ouvertures vers l'autre. Les malentendus, les quiproquos, les petites blessures tout simplement.
+
+### L’accueil
+
+Concernant ces frictions, tout est dans l’accueil.
