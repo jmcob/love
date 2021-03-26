@@ -1,0 +1,660 @@
+<!DOCTYPE html><html><head>
+      <title>aimer_p1_rencontre</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:////Users/jmcob/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.5.17/node_modules/@shd101wyy/mume/dependencies/katex/katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <style>
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview  ">
+      <p>Aimer</p>
+<h1 class="mume-header" id="partie-1-la-rencontre">Partie 1 : La rencontre</h1>
+
+ <!-- (quand les pilules ne nous suffiront plus et peut être bien avant) -->
+<h2 class="mume-header" id="1-g%C3%A9n%C3%A8se">1, G&#xE9;n&#xE8;se</h2>
+
+<h3 class="mume-header" id="pilot">Pilot</h3>
+
+<p>J&apos;ai le plaisir d&apos;entamer cet ouvrage avec l&apos;encouragement de notre Seigneur. Je m&apos;explique : il y a bientot 5 ans j&apos;ai commenc&#xE9; d&apos;&#xE9;crire un livre, et l&apos;ampleur de la tache m&apos;a perdue. Je ne suis pas un super &#xE9;crivain. Ce livre parlait aussi de l&apos;Amour de Dieu, th&#xE8;me impos&#xE9;. Ainsi, le 7 janvier dernier &#xE0; Saint Nicolas des Champs, et c&apos;est encore aujourd&apos;hui disponible sur YouTube, a &#xE9;t&#xE9; prononc&#xE9;e une parole de connaissance qui en somme encourage un &#xE9;crivain qui voulait t&#xE9;moigner de l&apos;Amour de Dieu et a abandonn&#xE9;, &#xE0; reprendre son travail.</p>
+<p>Ceci peut s&apos;&#xE9;couter &#xE0; la minute 56 de la vid&#xE9;o suivante : <a href="https://youtu.be/k5fhSlJ1ThY">https://youtu.be/k5fhSlJ1ThY</a></p>
+<p>Je me reconnais dans cette personne.</p>
+<p>Je ne suis personne pour parler de l&apos;Amour de Dieu. Tout le monde peut parler de l&apos;Amour de Dieu. Je ne suis pas un super ap&#xF4;tre qui &#xE9;viterait les p&#xE9;ch&#xE9;s et aurait la connaissance, de Dieu qui plus est, infuse.<br>
+N&#xE9;anmoins, comme beaucoup, j&apos;ai v&#xE9;cu des choses qui m&apos;ont rapproch&#xE9; de Dieu, donc de l&apos;Amour m&#xEA;me.</p>
+<blockquote>
+<p>Dieu est Amour</p>
+<p>Premi&#xE8;re lettre de saint Jean au chapitre 4, verset 8</p>
+</blockquote>
+<p>Ce verset aurait aussi bien pu &#xEA;tre le titre de cet ouvrage.</p>
+<h3 class="mume-header" id="premier-texte-premier-souvenir">Premier texte, premier souvenir</h3>
+
+<blockquote>
+<p>L&apos;ami aime en tout temps, Et dans le malheur il se montre un fr&#xE8;re.</p>
+<p>Proverbes 17,17</p>
+</blockquote>
+<p>Ainsi je ne limiterai pas ici l&apos;Amour &#xE0; l&apos;Amour conjugal. J&apos;en parlerai quand m&#xEA;me.</p>
+<p>Mais l&apos;ami est avant tout l&apos;Ami, avec une capitale. J&#xE9;sus, Dieu fait hommme, notre fr&#xE8;re.</p>
+<p>La visite, ou la rencontre, c&apos;est Dieu qui vient et s&apos;offre a vous dans votre interiorit&#xE9;. Il vient vous offrir sa vie, son bonheur, sa grace.</p>
+<p>Je suis un homme qui se convertit encore aujourd&apos;hui, il y a eu de belles &#xE9;tapes dans ma conversion. Ces &#xE9;tapes je vous les raconterai comme t&#xE9;moignage.</p>
+<p>Je commence sur ce souvenir : je n&apos;ai pas &#xE9;t&#xE9; baptis&#xE9; enfant. Je raconterai mon bapt&#xEA;me plus tard. Simplement je me rappelle d&apos;une chose : tr&#xE8;s conscient d&apos;habiter ce corps, je ne pouvais pas accepter la mort. L&apos;id&#xE9;e de disparaitre un jour &#xE9;tait r&#xE9;volante, j&apos;avais alors environ 6 ans. N&#xE9;anmoins un jour, j&apos;ai vaguement entendu que J&#xE9;sus &#xE9;tait r&#xE9;ssucit&#xE9; apr&#xE8;s un mort horrible sur sa croix. Cela devait signifier que nous aussi nous revivront avec lui. Je me rappelle d&apos;une sensation bizarre et intense en moi &#xE0; ce moment l&#xE0;.<br>
+Peut &#xEA;tre que J&#xE9;sus est venu me visiter pour la premiere fois, ce jour l&#xE0;.</p>
+<p>J&apos;annonce la couleur par ce premier texte : je parlerai de &quot;croire&quot; avec &quot;aimer&quot;, plus g&#xE9;n&#xE9;ralement de l&apos;Amour de Dieu,</p>
+<blockquote>
+<p>Car Dieu est Amour.</p>
+</blockquote>
+<h3 class="mume-header" id="parabole-au-chapitre-18-de-l%C3%A9vangile-selon-saint-luc">Parabole au chapitre 18 de l&apos;&#xE9;vangile selon saint Luc</h3>
+
+<blockquote>
+<p>09 &#xC0; l&#x2019;adresse de certains qui &#xE9;taient convaincus d&#x2019;&#xEA;tre justes et qui m&#xE9;prisaient les autres, J&#xE9;sus dit la parabole que voici :</p>
+<p>10 &#xAB; Deux hommes mont&#xE8;rent au Temple pour prier. L&#x2019;un &#xE9;tait pharisien, et l&#x2019;autre, publicain (c&#x2019;est-&#xE0;-dire un collecteur d&#x2019;imp&#xF4;ts).</p>
+<p>11 Le pharisien se tenait debout et priait en lui-m&#xEA;me : &#x201C;Mon Dieu, je te rends gr&#xE2;ce parce que je ne suis pas comme les autres hommes &#x2013; ils sont voleurs, injustes, adult&#xE8;res &#x2013;, ou encore comme ce publicain.</p>
+<p>12 Je je&#xFB;ne deux fois par semaine et je verse le dixi&#xE8;me de tout ce que je gagne.&#x201D;</p>
+<p>13 Le publicain, lui, se tenait &#xE0; distance et n&#x2019;osait m&#xEA;me pas lever les yeux vers le ciel ; mais il se frappait la poitrine, en disant : &#x201C;Mon Dieu, montre-toi favorable au p&#xE9;cheur que je suis !&#x201D;</p>
+<p>14 Je vous le d&#xE9;clare : quand ce dernier redescendit dans sa maison, c&#x2019;est lui qui &#xE9;tait devenu un homme juste, plut&#xF4;t que l&#x2019;autre. Qui s&#x2019;&#xE9;l&#xE8;ve sera abaiss&#xE9; ; qui s&#x2019;abaisse sera &#xE9;lev&#xE9;. &#xBB;</p>
+</blockquote>
+<p>Source : AELF</p>
+<p>J&apos;ai &#xE9;t&#xE9; convaincu d&apos;&#xEA;tre juste alors que je m&#xE9;prisais les autres. C&apos;est ma derniere conversion, de la semaine derni&#xE8;re, et je vous en parle comme un expert. Ce sont des pardons que j&apos;ai &#xE9;t&#xE9; presque &quot;oblig&#xE9; de donner&quot; &#xE0; des fr&#xE8;res et soeurs. J&apos;&#xE9;tais presque forc&#xE9; par notre Seigneur, comme contraint. J&apos;ai un peu (beaucoup) ouvert les yeux. Je ne sais pas encore si cette bienveillance va perdurer.<br>
+Je le souhaite.</p>
+<h3 class="mume-header" id="lamour-est-notre-solution">l&apos;Amour est notre solution</h3>
+
+<p><em>Je m&apos;&#xE9;tais renferm&#xE9;.</em> Et quelles qu&apos;en soient les raisons, il me fallait faire ce constat. Et le faire en d&apos;autres termes aussi : quoi que j&apos;en pense, j&apos;&#xE9;tais bien plus ouvert aux autres auparavant.<br>
+Auparavant ?<br>
+Avant que le ciel ne s&apos;assombrisse autour de moi. En quelques ann&#xE9;es les nuages ont obstru&#xE9; un peu la lumi&#xE8;re de mon bapt&#xE8;me autour de moi.</p>
+<p>Mais alors, quelles que ann&#xE9;es plus tard, alors qu&apos;il s&apos;&#xE9;tait tr&#xE8;s franchement r&#xE9;&#xE9;claircit par une conversion forte (que je vais vite vous raconter), j&apos;ai laiss&#xE9; les nuages r&#xE9;envahir ma maison.</p>
+<p>Et ainsi fut pour moi le verset suivant :</p>
+<blockquote>
+<p>Si donc la lumi&#xE8;re qui est en vous est t&#xE9;n&#xE8;bres, quelles t&#xE9;n&#xE8;bres !</p>
+<p>Evangile de Matthieu 6,22-23</p>
+</blockquote>
+<p>Ainsi, la solution a mes probl&#xE8;mes est de m&apos;ouvrir &#xE0; l&apos;autre : d&apos;aimer mon prochain. De redevenir celui que j&apos;&#xE9;tais avant les t&#xE9;n&#xE8;bres que me coeur ont pr&#xE9;f&#xE9;r&#xE9; au Seigneur sans m&#xEA;me s&apos;en douter. Ou comment, apr&#xE8;s tout, l&apos;Amour est ma v&#xE9;ritable solution. Car voila des ann&#xE9;es que je le sais sans savoir l&apos;appliquer.</p>
+<p>Ce texte va &#xEA;tre une histoire d&apos;aimer, ou comment, de A &#xE0; Z je vais d&#xE9;couvrir avec vous sous diff&#xE9;rentes formes, et peut &#xEA;tre aussi parfois red&#xE9;couvrir, l&apos;Amour.</p>
+<p>Parce que oui, je suis sur ce chemin aujourd&apos;hui, aussi sur que vous lisez ce livre. Et vous en b&#xE9;n&#xE9;ficierez comme dans un livre de d&#xE9;veloppement personnel.</p>
+<p>L&apos;Amour est LA solution.</p>
+<h3 class="mume-header" id="je-m%C3%A9tais-renferm%C3%A9">Je m&apos;&#xE9;tais renferm&#xE9;</h3>
+
+<p>...tout simplement ! Claire serait folle si elle savait &#xE7;a aujourd&apos;hui !</p>
+<p>Claire...</p>
+<p><em>le souvenir de Claire traverse ce livre, &#xE0; la fois nostalgique, &#xE0; la fois plein d&apos;espoir... mais de quel espoir parle t&apos;on ici?</em></p>
+<p>Amour...</p>
+<p><em>des sentiments amoureux refont surface, des personnes, des sens refont apparition qui ne s&apos;&#xE9;taient pas manifest&#xE9;s depuis longtemps...</em></p>
+<p>Je m&apos;&#xE9;tais juste... renferm&#xE9; !</p>
+<p><em>oubli&#xE9; de pardonner...</em></p>
+<p>Viens Esprit nous b&#xE9;nir en ce d&#xE9;but de livre.</p>
+<h3 class="mume-header" id="sans-moi-vous-ne-pouvez-rien-faire-evangile-de-jean-au-chapitre-15">Sans moi vous ne pouvez rien faire - Evangile de Jean au chapitre 15</h3>
+
+<p>Je cherche une maitresse femme mais que ne l&apos;aurais-je si je reste sans amour a donner, ne sachant avancer sans p&#xE9;cher, sans perdre ma vie ? Existe t&apos;elle au moins ou se confond-elle d&#xE9;ja avec notre seigneur ?</p>
+<p>Je cherche Claire mais je ne la trouve pas, ou plutot je ne la reconnais pas, les yeux englu&#xE9;s de salet&#xE9;s, les oreilles perverties parce ce que je dis.</p>
+<p>Que ne te trouverais-je toi la douce, la sage, le coquelicot, le pavot de Californie.</p>
+<p>Serais-tu &#xE0; droite ? &#xE0; gauche surement tu seras l&#xE0;. Quand tomberez-vous &#xE9;cailles, quand fanerez-vous, hallucinations !</p>
+<blockquote>
+<p>Je sais ce que je vais faire</p>
+<p>Evangile de Luc 16,04</p>
+</blockquote>
+<p>pour qu&apos;une fois sorti de cette torpeur, je trouve ma destin&#xE9;e. <em>Je vais aimer mon prochain</em><br>
+Simple comme bonjour.</p>
+<blockquote>
+<p>Ne pas me d&#xE9;rober a celui qui est ma propre chair</p>
+<p>Isa&#xEF;e 58</p>
+</blockquote>
+<p><em>La charit&#xE9;</em>. Mais pas seulement les pauvres. Tout le monde tant qu&apos;ils m&apos;invitent. Et je me ferai inviter. Il me reste toujours quelques tours dans mon sac, quelques graces imp&#xE9;rissables du Seigneur.</p>
+<p><em>La pri&#xE8;re</em> qui ne cesse de grandir en moi. Merci Seigneur !</p>
+<h3 class="mume-header" id="remercier-dieu">Remercier Dieu</h3>
+
+<p>Je n&apos;invente rien. Remercier Dieu nous m&#xE8;ne &#xE0; toujours plus de bonheur, et ceci en v&#xE9;rit&#xE9;.</p>
+<p>En fait j&apos;attendais &#xE7;a depuis longtemps Seigneur.<br>
+<em>Mais pas aujourd&apos;hui !</em><br>
+J&apos;attendais ma lib&#xE9;ration, j&apos;attendais mes nouvelles ailes. J&apos;attendais d&apos;aimer, j&apos;attendais.<br>
+Mais je ne pensais pas que tu m&apos;en ferais l&apos;acteur depuis le d&#xE9;but! Que je poserai mes actes comme on met des habits !</p>
+<p>Merci ! Je te rends gr&#xE2;ce &#xF4; Seigneur de l&apos;univers pour ce que tu fais de moi chaque jour, m&#xEA;me en temps de pand&#xE9;mie ! Seigneur des arm&#xE9;es m&#xEA;me si le Covid r&#xE9;infectais encore plus le monde, je serai inn&#xE9;branlable, gr&#xE2;ce a toi, sous ton ombre !</p>
+<p>Tu me lis et tu ries, comme on regarde un enfant manger sa premi&#xE8;re pur&#xE9;e apr&#xE8;s le sevrage du lait !</p>
+<p>Seigneur, je ne suis donc pas encore parfait, il reste du chemin, Dieu merci !<br>
+<em>Je suis libre</em></p>
+<h3 class="mume-header" id="libres">Libres</h3>
+
+<blockquote>
+<p>Le coeur de l&apos;homme m&#xE9;dite sa voie, mais c&apos;est le Seigneur qui affermit ses pas.</p>
+<p>Proverbes 16,9</p>
+</blockquote>
+<p>Si comme le dis le pape Fran&#xE7;ois, le temps est sup&#xE9;rieur &#xE0; l&apos;espace, alors votre libert&#xE9; dans le temps est sup&#xE9;rieure a celle que vous avez dans l&apos;espace. Dessiner un chemin n&apos;est pas si compliqu&#xE9;.</p>
+<p>Mais alors que dire de votre libert&#xE9; spirituelle ? Je vous dis je n&apos;y connais rien, mais l&apos;Esprit de Dieu n&apos;est-il pas dit insondable et ses voies imp&#xE9;n&#xE9;trables ? Posons un premier pas en terre inconnue.</p>
+<p>Sachez qu&apos;en toute libert&#xE9;, vous et moi nous prenons actuellement la direction de l&apos;Amour, de l&apos;Amour de Dieu. Et il affermit nos pas. Si libert&#xE9; implique quelque-part un choix, prenons celui qui nous limite le moins. Et c&apos;est le choix de sainte Th&#xE9;r&#xE8;se de Lisieux quand elle lit 1 corinthiens 13, l&apos;hymne a l&apos;Amour de Saint Paul, le choix d&apos;aimer.</p>
+<blockquote>
+<p>Ne pas me d&#xE9;rober a celui qui est ma propre chair<br>
+(...)<br>
+Alors ta lumi&#xE8;re jaillira comme l&apos;aurore.</p>
+<p>Isa&#xEF;e 58</p>
+</blockquote>
+<h3 class="mume-header" id="laurore">L&apos;aurore</h3>
+
+<p>Une lumi&#xE8;re vient de jaillir a la suite de ces textes pour moi. Pour certains d&apos;entre vous une lueur peut &#xEA;tre ou quelque chose de lumineux, une veilleuse. Une graine a &#xE9;t&#xE9; isol&#xE9;e, l&apos;id&#xE9;e d&apos;une charit&#xE9; joyeuse, un amour que Dieu s&#xE8;me qui passerait par nous les hommes.</p>
+<p>C&apos;en est l&apos;aurore. Ca veut dire que d&#xE9;ja la graine a germ&#xE9;. Et elle cherche la lumi&#xE8;re.</p>
+<blockquote>
+<p>&#xAB; Que sera donc cet enfant ? &#xBB; En effet, la main du Seigneur &#xE9;tait avec lui.</p>
+<p>Luc 1,66</p>
+</blockquote>
+<p>C&apos;est l&apos;aurore et d&#xE9;j&#xE0; la main du Seigneur est avec notre esprit qui grandit sous son regard. Il veut mener cette graine a terme, par votre libert&#xE9; il le fera.</p>
+<p>Nous ne savons pas la finalit&#xE9; si ce n&apos;est la gloire de Dieu. Nous ne savons ni le temps que cela prendra si ce n&apos;est qu&apos;<em>&#xE0; chaque jour suffit sa peine</em>. Cherchons la lumi&#xE8;re qui fera germer cette graine, le Royaume de Dieu.</p>
+<h3 class="mume-header" id="vas-tu-regretter-de-vivre">Vas tu regretter de vivre ?</h3>
+
+<p>Mais a peine le gerbe vient de poindre, a peine la coquille d&apos;oeuf est-elle f&#xEA;l&#xE9;e, d&#xE9;ja je vous entend crier un indiscible, impronon&#xE7;able, ininscrivible cri. Mais en mon ame je le comprends. Ce cri, c&apos;est votre soif de rester enterr&#xE9;.<br>
+Au fond, ca se justifierai par &quot;Qu&apos;est ce qui nous attends apr&#xE8;s ?&quot; &quot;Maintenant on souffre alors qu&apos;on se rendais compte de rien avant&quot;. Epargne nos souffrances futures en somme ?</p>
+<p><em>Vas tu regretter de vivre enfin?</em></p>
+<p>C&apos;est un petit peu le r&#xEA;ve d&apos;Adam et Eve de revenir au paradis, ce r&#xEA;ve qu&apos;ils ch&#xE9;rissaient, que vous mettez a bas en refusant d&apos;aller vers les autres ; eux ont v&#xE9;cu l&apos;inverse avec leur sortie du paradis terrestre car ils avaient &#xE9;cout&#xE9; le serpent. La vous avez &#xE9;cout&#xE9; un commandement de vie, l&apos;Amour, aller vers l&apos;autre et vous battez en retraite : &quot;Nous pr&#xE9;f&#xE9;rons travailler dur pour notre subsistance, nous ne sommes rien pour aller vers les autres&quot;.</p>
+<blockquote>
+<p>07 Et bien ce n&apos;est pas un commandement nouveau que je vous donne : Aimez-vous les uns les autres comme J&#xE9;sus vous a aim&#xE9;.</p>
+<p>Premi&#xE8;re lettre de saint Jean au chapitre 2</p>
+</blockquote>
+<p>Je sais, pour vous caresser dans le sens du poil, que ce chapitre vous a surpris et qu&apos;aucun de vous, d&#xE9;j&#xE0;, n&apos;avait de telles intentions.</p>
+<p><em>Je ne fais que pr&#xE9;venir</em>, et pour ceux que &#xE7;a touche vraiment, Dieu n&apos;accepte pas les cartes bleues sans contact mais toutes sortes de remerciements &#xE9;crits dans Matthieu 25 qui d&#xE9;crivent <em>la charit&#xE9;</em>.</p>
+<p>Je dis &#xE7;a mais on en a tous des cartes bleues sans contact, ou presque.</p>
+<h3 class="mume-header" id="sortir-de-moi-m%C3%AAme">Sortir de moi m&#xEA;me</h3>
+
+<p>Red&#xE9;couvrir les autres. Leur permettre de s&apos;exprimer. Ecouter. Ce n&apos;est pas en parlant que l&apos;on sort de soi m&#xEA;me, je crois. Ecouter fera la diff&#xE9;rence, nos quelques mots comptent plus que ceux que nous aurions dit comme bavardage. Nous &#xE9;difierons certainement plus en &#xE9;coutant d&apos;abord.</p>
+<p>Transformer un conversation amicale en &#xE9;coute r&#xE9;ciproque. Se recevoir de l&apos;autre dans sa parole, sans trier d&apos;abord, mais peut &#xEA;tre relire avec Dieu nos rencontres avec un esprit bienveillant et faire la part des choses. Dans un m&#xEA;me mouvement qu&apos;un pardon naissant, accueillir le bon et le mauvais sans vraiment savoir si c&apos;est bon ou mauvais d&apos;abord, sauf si c&apos;est &#xE9;vident.</p>
+<p>R&#xE9;agir au minimum, juste pour signifier perceptiblement qu&apos;on a compris, &#xE9;couter, consid&#xE9;rer. Ecouter c&apos;est un peu aimer, comme donner mais autrement.</p>
+<h3 class="mume-header" id="sec">Sec</h3>
+
+<p>Aller vers les autres ce n&apos;est pas forc&#xE9;ment faire le premier pas. C&apos;est aussi accueillir et soutenir le pas de l&apos;autre.<br>
+N&#xE9;anmoins souvent, c&apos;est faire le premier pas.</p>
+<p>Aller vers les autres ce n&apos;est pas parler a tout bout de champs. C&apos;est &#xE9;couter. Aller pour &#xE9;couter.<br>
+N&#xE9;anmoins par l&#xE0;, c&apos;est annoncer le royaume.</p>
+<p>Aller vers les autres ce n&apos;est pas &#xEA;tre triste d&apos;aller vers le pauvre. C&apos;est partager sa joie d&apos;abord et la n&#xF4;tre ensuite.<br>
+M&#xEA;me si parfois, il faudra essuyer quelques larmes.</p>
+<p>Aller vers les autres c&apos;est assez simple, c&apos;est r&#xE9;pondre &#xE0; l&apos;appel pressent du Seigneur d&apos;aller nous adresser &#xE0; notre prochain parce que quelque chose chez lui nous interpelle. Ce quelque chose, c&apos;est Dieu qui nous l&apos;a mis en face comme un appas, source de conversation et source de ce qu&apos;est l&apos;autre.</p>
+<p>Aller  vers l&apos;autre c&apos;est r&#xE9;pondre a l&apos;appel que nous avons tous de nous connaitre, cette soif de vaincre par l&apos;amour du prochain.</p>
+<p>Aller vers l&apos;autre c&apos;est enfin aller vers Dieu, dans :</p>
+<blockquote>
+<p>Un entretien, souvent, seul &#xE0; seul, avec celui dont nous savons qu&apos;il nous aime.<br>
+Sainte Th&#xE9;r&#xE8;se d&apos;Avila.</p>
+</blockquote>
+<p>Mais la c&apos;est Lui qui a le premier pas, toujours, comme dans toute d&#xE9;marche que nous faisons, il nous en donne l&apos;impulsion, <em>Il nous scrute</em>, Psaume 8, mais nous veut libres et ne s&apos;impose pas.</p>
+<h2 class="mume-header" id="2-t%C3%A9moignage">2, T&#xE9;moignage</h2>
+
+<p>J&apos;ai &#xE9;t&#xE9; baptis&#xE9; &#xE0; l&apos;adolescence en 2001. J&apos;ai demand&#xE9; le bapt&#xE8;me apr&#xE8;s avoir vu une &#xE9;mission de t&#xE9;l&#xE9;vision. Dans celle-ci la voix off disait que les personnes tenaient plus longtemps &#xE0; vivre en prison lorsqu&apos;elles avaient la foi.<br>
+Je suis l&apos;enfant de cette phrase, je n&apos;ai jamais mis les pieds dans une prison.</p>
+<p>J&apos;ai &#xE9;t&#xE9; baptis&#xE9; en attendant quelque chose de somptueux au moment du bapt&#xE8;me, et je l&apos;ai eu ... 13 ans plus tard, en 2014. Entre les deux je n&apos;ai pas fait honneur au Seigneur par une vie plut&#xF4;t d&#xE9;prav&#xE9;e mais pas d&#xE9;pourvue de sens n&#xE9;anmoins. J&apos;avais oubli&#xE9; Dieu, ne l&apos;ayant pas vraiment connu. J&apos;avais oubli&#xE9; la recherche que j&apos;avais pu avoir dans ma jeunesse. J&apos;ai tout de m&#xEA;me &#xE9;t&#xE9; confirm&#xE9; en 2002 &#xE0; la cath&#xE9;drale de Bayonne, d&apos;un bon coeur mais sans grande conviction.</p>
+<p>Devant le constat que ma vie allait de mal en pis, d&#xE9;but 2011, avec drogues, alcool, maladie, inconduite g&#xE9;n&#xE9;rale, &#xE9;chec de mes &#xE9;tudes (vous pouvez prendre les listes donn&#xE9;es par saint Paul dans ses lettres elles me correspondent), j&apos;ai fini par conclure que ma vie tendait vers la mort si elle continuait ainsi, et j&apos;ai eu peur.</p>
+<p>Entre temps, a No&#xEB;l, au repas familial, ma grand-m&#xE8;re avait dit en riant : &quot;J&apos;espere que vous allez devenir des veaux (d&#xE9;v&#xF4;ts)&quot;.</p>
+<p>Ainsi j&apos;ai d&#xE9;poussi&#xE8;r&#xE9; mon nouveau testament, h&#xE9;rit&#xE9; de mon bapt&#xE8;me, en janvier 2011. Je l&apos;avait ouvert pour d&#xE9;couvrir deux &#xE9;vangiles d&#xE9;j&#xE0; en 2008. Aujourd&apos;hui, j&apos;aime le nouveau testament, gr&#xE2;ce &#xE0; la d&#xE9;couverte que j&apos;en ai fait ces ann&#xE9;es l&#xE0;. Ce mois de janvier, au fil des pages je me suis passionn&#xE9; pour l&apos;ouvrage. Je l&apos;ai lu une premi&#xE8;re fois et alors que je ne comprenais vraiment pas tout le contenu, je comprenais par l&apos;Esprit que je n&apos;avais jamais lu un si bon livre. Je ne suis pas un grand lecteur mais je sais appr&#xE9;cier un bon livre. Aujourd&apos;hui je ne lis que la bible.</p>
+<p>J&apos;ai lu ce m&#xEA;me mois de janvier 2011 une deuxi&#xE8;me fois le nouveau testament. Car j&apos;avais vers&#xE9; une larme a la fin de la premi&#xE8;re lecture : il fallait que j&apos;en comprenne plus. Puis le seigneur m&apos;a invit&#xE9; a la lire une troisi&#xE8;me fois.</p>
+<p>A la premi&#xE8;re lecture de l&apos;Apocalypse de Saint Jean, je ne pouvais pas me concentrer. J&apos;entendais : &quot;arr&#xEA;te de fumer, arr&#xEA;te de fumer !&quot; &#xE0; chaque mot. J&apos;ai fait des essais, et en 2013 j&apos;ai r&#xE9;ussi.</p>
+<h3 class="mume-header" id="f%C3%A9vrier-2011">F&#xE9;vrier 2011</h3>
+
+<p>Anecdotique peut &#xEA;tre, ce petit soleil dans mon coeur, cette lueur d&apos;espoir qui ne me quittait pas apr&#xE8;s ces trois lectures du nouveau testament. Il a fait beau ce mois l&#xE0; &#xE0; Bordeaux, un soleil a tout rompre, comme dans mon coeur.</p>
+<h3 class="mume-header" id="avril-2014">Avril 2014</h3>
+
+<p>Trois ans apr&#xE8;s ce radieux mois de f&#xE9;vrier, vint un &#xE9;v&#xE8;nement que je n&apos;ose plus appeler &quot;conversion&quot; tellement je ne suis pas converti.</p>
+<p>Je vais vous &#xE9;pargner tous les d&#xE9;tails pour vous amener a l&apos;essentiel.</p>
+<p>Le pr&#xEA;tre, dans une chapelle pr&#xE9;par&#xE9;e et d&#xE9;cor&#xE9;e pour et par des jeunes catholiques, tenait dans ses mains l&apos;ostensoir et la divine hostie &#xE0; l&apos;int&#xE9;rieur. L&apos;ostensoir devait rester 3 jours dans la chapelle, &#xE0; exposer J&#xE9;sus. Ce samedi 5 avril, une aube par dessus mes v&#xEA;tements, j&apos;accompagnais ce pr&#xEA;tre affubl&#xE9; d&apos;un cierge avec un autre jeune homme, pour aller visiter chaque participant &#xE0; l&apos;&#xE9;v&#xE8;nement. Nous faisions partie de Jeunesse 2000, j&apos;avais alors 27 ans.</p>
+<p>Le Christ &quot;hostie&quot; se penchait devant chaque jeune le temps d&apos;une pri&#xE8;re. On pouvait observer diverses r&#xE9;actions de la part des jeunes. Des pleurs, du recueillement, des sourires traduisant la joie et la paix. Alors que J&#xE9;sus avait fait le tour des personnes pr&#xE9;sentes il ne restait que les deux servants d&apos;autel que nous &#xE9;tions. De loin encore, je regardais l&apos;hostie et je sentis un regard &#xE9;lectrique sur moi venant de l&apos;hostie. Ce n&apos;est pas le genre de chose que j&apos;ai l&apos;habitude de vivre. L&apos;hostie raisonnablement ne peut avoir un regard que je ressens comme un regard. L&apos;autre servant toucha le drap, le v&#xEA;tement du Seigneur et en signe de demande de gu&#xE9;rison - oui je suis malade - je fais la m&#xEA;me chose a mon tour. C&apos;est une demande de gu&#xE9;rison car dans le 5&#xE8;me chapitre de l&apos;&#xE9;vangile de Marc, une femme touche le v&#xEA;tement du seigneur pour &#xEA;tre gu&#xE9;rie, et elle l&apos;est. Le Seigneur est m&#xEA;me &#xE9;tonn&#xE9; de ce geste et en rajoute &quot;Ma fille, ta foi t&apos;a sauv&#xE9;e ; va en paix et sois gu&#xE9;rie de ton infirmit&#xE9;&quot;.</p>
+<h3 class="mume-header" id="voici-mon-coeur">Voici mon coeur</h3>
+
+<p>Alors un Amour comme jamais je n&apos;en ai ressenti ailleurs s&apos;est d&#xE9;vers&#xE9; en moi et j&apos;ai cru.</p>
+<blockquote>
+<p>Je souhaite que tout le monde ressente &#xE7;a.</p>
+</blockquote>
+<p>Je suis rest&#xE9; b&#xE9;at sans bouger la main droite devant la bouche en inspirant, comme signe de stup&#xE9;faction. Un soleil s&apos;est lev&#xE9; sur ma vie. Un nouvel &#xE9;clat, c&apos;&#xE9;tait un peu Ob&#xE9;lix qui tombait dans la potion magique, comme j&apos;aime a le penser. Peut &#xEA;tre un genre d&apos;extase m&#xEA;me si &#xE7;a me semble in&#xE9;xacte.</p>
+<p>7 ans plus tard ce moment marque toujours ma vie. Mais je crois que ce n&apos;est pas vraiment &#xE7;a ma conversion. La conversion c&apos;est plus tard. Jusqu&apos;ici j&apos;ai ouvert les yeux et j&apos;ai cru en Dieu. Mais je n&apos;ai pas cess&#xE9; mon mauvais comportement compl&#xE8;tement.</p>
+<h3 class="mume-header" id="dieu-ma-toujours-donn%C3%A9-la-force-dans-toutes-mes-difficult%C3%A9s-jusqu%C3%A0-aujourdhui">Dieu m&apos;a toujours donn&#xE9; la force, dans toutes mes difficult&#xE9;s, jusqu&apos;&#xE0; aujourd&apos;hui.</h3>
+
+<p>Il y a eu des moments difficiles comme tout le monde, ou je me croyais d&#xE9;pass&#xE9; par les &#xE9;v&#xE8;nements, mais j&apos;ai tenu, et je tiendrai si Dieu le veut encore. Jusqu&apos;&#xE0; ce que d&#xE9;cision se fasse pour moi, moment fatidique ou je serai libre, ou l&apos;inverse mais je crois que j&apos;arriverai a la libert&#xE9;.</p>
+<p><em>C&apos;est le combat spirituel.</em></p>
+<p>Je ne suis pas un expert. Mais je crois quand m&#xEA;me comprendre qu&apos;il se m&#xE8;ne avec Dieu, le combat spirituel. Qu&apos;il se m&#xE8;ne int&#xE9;rieurement dans la pri&#xE8;re mais pas seulement. Qu&apos;il nous permet de lutter contre les tentations, les d&#xE9;couragements, les d&#xE9;ceptions, de battre les &#xE9;preuves ... de la vie. La combat spirituel, c&apos;est la vie.</p>
+<p>Et pour vous comme pour moi cela va passer par aller vers le prochain activement.</p>
+<h2 class="mume-header" id="3-aller-vers-les-autres-est-un-raccourcis">3, Aller vers les autres est un raccourcis</h2>
+
+<h3 class="mume-header" id="evangile-selon-saint-marc-1228-34">Evangile selon saint Marc 12,28-34</h3>
+
+<blockquote>
+<p>28 Un scribe qui avait entendu la discussion, et remarqu&#xE9; que J&#xE9;sus avait bien r&#xE9;pondu, s&#x2019;avan&#xE7;a pour lui demander : &#xAB; Quel est le premier de tous les commandements ? &#xBB;</p>
+<p>29 J&#xE9;sus lui fit cette r&#xE9;ponse : &#xAB; Voici le premier : &#xC9;coute, Isra&#xEB;l : le Seigneur notre Dieu est l&#x2019;unique Seigneur.</p>
+<p>30 Tu aimeras le Seigneur ton Dieu de tout ton c&#x153;ur, de toute ton &#xE2;me, de tout ton esprit et de toute ta force.</p>
+<p>31 Et voici le second : Tu aimeras ton prochain comme toi-m&#xEA;me. Il n&#x2019;y a pas de commandement plus grand que ceux-l&#xE0;. &#xBB;</p>
+<p>32 Le scribe reprit : &#xAB; Fort bien, Ma&#xEE;tre, tu as dit vrai : Dieu est l&#x2019;Unique et il n&#x2019;y en a pas d&#x2019;autre que lui.</p>
+<p>33 L&#x2019;aimer de tout son c&#x153;ur, de toute son intelligence, de toute sa force, et aimer son prochain comme soi-m&#xEA;me, vaut mieux que toute offrande d&#x2019;holocaustes et de sacrifices. &#xBB;</p>
+<p>34 J&#xE9;sus, voyant qu&#x2019;il avait fait une remarque judicieuse, lui dit : &#xAB; Tu n&#x2019;es pas loin du royaume de Dieu. &#xBB; Et personne n&#x2019;osait plus l&#x2019;interroger.</p>
+</blockquote>
+<p>Source : AELF</p>
+<h3 class="mume-header" id="ce-quil-est-peut-%C3%AAtre-n%C3%A9c%C3%A9ssaire-de-pr%C3%A9ciser">Ce qu&apos;il est peut &#xEA;tre n&#xE9;c&#xE9;ssaire de pr&#xE9;ciser</h3>
+
+<p>Ma hantise ce serait de multiplier ici les explications d&apos;&#xE9;vangile sans le vivre. Ainsi j&apos;estime que vous avez compris ce qu&apos;on vient de lire, d&apos;une vision qui vous est propre. Que l&apos;Esprit de Dieu vous instruit, et mieux que je ne le ferai. Ainsi je ne commenterai pas l&apos;&#xE9;vangile. Le rapport qu&apos;il a avec le texte suffit, et l&apos;esprit vous instruit comme une continuit&#xE9;.</p>
+<blockquote>
+<p>Quant &#xE0; vous, l&#x2019;onction que vous avez re&#xE7;ue de lui demeure en vous, et vous n&#x2019;avez pas besoin d&#x2019;enseignement. Cette onction vous enseigne toutes choses, elle qui est v&#xE9;rit&#xE9; et non pas mensonge ; et, selon ce qu&#x2019;elle vous a enseign&#xE9;, vous demeurez en lui.</p>
+<p>Premier &#xE9;pitre de Jean 2,27</p>
+</blockquote>
+<h3 class="mume-header" id="j%C3%A9sus-a-n%C3%A9anmoins-expliqu%C3%A9-une-fois-la-parabole-du-semeur">J&#xE9;sus a n&#xE9;anmoins expliqu&#xE9; une fois la parabole du semeur</h3>
+
+<p>Je ferai donc exception parce que ces deux commandements sont le point central de ce texte :</p>
+<p><em>Si nous faisons de notre leitmotiv l&apos;ouverture aux autres et avons comme but leur rencontre, alors nous allons vers l&apos;Amour du prochain, donc l&apos;Amour de Dieu</em></p>
+<p>C&apos;est assez simple th&#xE9;oriquement, mais nous allons illustrer cela encore par l&apos;&#xE9;vangile, encore une fois, pour saisir le cot&#xE9; pratique des choses.</p>
+<h3 class="mume-header" id="evangile-de-matthieu-2531-46">Evangile de Matthieu 25,31-46</h3>
+
+<blockquote>
+<p>31 &#xAB; Quand le Fils de l&#x2019;homme viendra dans sa gloire, et tous les anges avec lui, alors il si&#xE9;gera sur son tr&#xF4;ne de gloire.</p>
+<p>32 Toutes les nations seront rassembl&#xE9;es devant lui ; il s&#xE9;parera les hommes les uns des autres, comme le berger s&#xE9;pare les brebis des boucs :</p>
+<p>33 il placera les brebis &#xE0; sa droite, et les boucs &#xE0; gauche.</p>
+<p>34 Alors le Roi dira &#xE0; ceux qui seront &#xE0; sa droite : &#x201C;Venez, les b&#xE9;nis de mon P&#xE8;re, recevez en h&#xE9;ritage le Royaume pr&#xE9;par&#xE9; pour vous depuis la fondation du monde.</p>
+<p>35 Car j&#x2019;avais faim, et vous m&#x2019;avez donn&#xE9; &#xE0; manger ; j&#x2019;avais soif, et vous m&#x2019;avez donn&#xE9; &#xE0; boire ; j&#x2019;&#xE9;tais un &#xE9;tranger, et vous m&#x2019;avez accueilli ;</p>
+<p>36 j&#x2019;&#xE9;tais nu, et vous m&#x2019;avez habill&#xE9; ; j&#x2019;&#xE9;tais malade, et vous m&#x2019;avez visit&#xE9; ; j&#x2019;&#xE9;tais en prison, et vous &#xEA;tes venus jusqu&#x2019;&#xE0; moi !&#x201D;</p>
+<p>37 Alors les justes lui r&#xE9;pondront : &#x201C;Seigneur, quand est-ce que nous t&#x2019;avons vu&#x2026; ? tu avais donc faim, et nous t&#x2019;avons nourri ? tu avais soif, et nous t&#x2019;avons donn&#xE9; &#xE0; boire ?</p>
+<p>38 tu &#xE9;tais un &#xE9;tranger, et nous t&#x2019;avons accueilli ? tu &#xE9;tais nu, et nous t&#x2019;avons habill&#xE9; ?</p>
+<p>39 tu &#xE9;tais malade ou en prison&#x2026; Quand sommes-nous venus jusqu&#x2019;&#xE0; toi ?&#x201D;</p>
+<p>40 Et le Roi leur r&#xE9;pondra : &#x201C;Amen, je vous le dis : chaque fois que vous l&#x2019;avez fait &#xE0; l&#x2019;un de ces plus petits de mes fr&#xE8;res, c&#x2019;est &#xE0; moi que vous l&#x2019;avez fait.&#x201D;</p>
+<p>41 Alors il dira &#xE0; ceux qui seront &#xE0; sa gauche : &#x201C;Allez-vous-en loin de moi, vous les maudits, dans le feu &#xE9;ternel pr&#xE9;par&#xE9; pour le diable et ses anges.</p>
+<p>42 Car j&#x2019;avais faim, et vous ne m&#x2019;avez pas donn&#xE9; &#xE0; manger ; j&#x2019;avais soif, et vous ne m&#x2019;avez pas donn&#xE9; &#xE0; boire ;</p>
+<p>43 j&#x2019;&#xE9;tais un &#xE9;tranger, et vous ne m&#x2019;avez pas accueilli ; j&#x2019;&#xE9;tais nu, et vous ne m&#x2019;avez pas habill&#xE9; ; j&#x2019;&#xE9;tais malade et en prison, et vous ne m&#x2019;avez pas visit&#xE9;.&#x201D;</p>
+<p>44 Alors ils r&#xE9;pondront, eux aussi : &#x201C;Seigneur, quand t&#x2019;avons-nous vu avoir faim, avoir soif, &#xEA;tre nu, &#xE9;tranger, malade ou en prison, sans nous mettre &#xE0; ton service ?&#x201D;</p>
+<p>45 Il leur r&#xE9;pondra : &#x201C;Amen, je vous le dis : chaque fois que vous ne l&#x2019;avez pas fait &#xE0; l&#x2019;un de ces plus petits, c&#x2019;est &#xE0; moi que vous ne l&#x2019;avez pas fait.&#x201D;</p>
+<p>46 Et ils s&#x2019;en iront, ceux-ci au ch&#xE2;timent &#xE9;ternel, et les justes, &#xE0; la vie &#xE9;ternelle. &#xBB;</p>
+</blockquote>
+<h3 class="mume-header" id="vous-avez-bien-compris-cette-page-d%C3%A9vangile">Vous avez bien compris cette page d&apos;&#xE9;vangile</h3>
+
+<p>Vous allez me dire que je suis mont&#xE9; en gradation. D&apos;abord il s&apos;agissait d&apos;aimer les autres, d&apos;aller vers eux et d&apos;&#xEA;tre tourn&#xE9; vers eux. Maintenant il faudrait les soigner, les visiter, les v&#xEA;tir, leur donner &#xE0; boire et &#xE0; manger, les accueillir.</p>
+<p>Ce &#xE0; quoi je r&#xE9;pond oui.</p>
+<p>Je ne veux mettre aucun frein a votre imagination et votre action envers vos amis, ceux qui actuellement sont vos proches, et ceux qui vont devenir vos proches et vos amis, par votre charit&#xE9;. Laissez vous transporter par l&apos;Esprit, la Charit&#xE9; n&apos;a aucune limite. Autant on pourrait abuser et devenir sectaire dans bien des domaines, notamment en imposant une v&#xE9;rit&#xE9;, mais en mati&#xE8;re de charit&#xE9;, il n&apos;y a pas de fronti&#xE8;res.</p>
+<p>Il y a des centaines d&apos;autres actes charitables essentiels non d&#xE9;crits dans Matthieu 25. A vous de les trouver avec l&apos;Esprit de Dieu et de les appliquer a brule pourpoint ! Ecoute, soutien moral, soutien spirituel d&apos;une part, amener la communion, offrir l&apos;hospitalit&#xE9;, inviter au mus&#xE9;e, faire d&#xE9;couvrir la mer, aimer en v&#xE9;rit&#xE9;.</p>
+<h3 class="mume-header" id="quont-fait-les-autres-pour-vous">Qu&apos;ont fait les autres pour vous ?</h3>
+
+<p>Ma m&#xE8;re m&apos;a &#xE9;lev&#xE9; et support&#xE9;, et pardonn&#xE9; et plus encore,<br>
+Dieu m&apos;a pardonn&#xE9; mes fautes plus de 70 fois 7 fois et m&apos;a aim&#xE9;,<br>
+Marie m&apos;a offert un tableau pour chez moi.<br>
+Laura m&apos;a fait confiance dans la difficult&#xE9;.<br>
+Marie (une autre) s&apos;est livr&#xE9;e &#xE0; moi,<br>
+Aur&#xE9;lie a pris r&#xE9;guli&#xE8;rement des nouvelles quand j&apos;&#xE9;tais pas bien r&#xE9;cemment,<br>
+De nombreux amis dont Christophe sont all&#xE9;s me voir &#xE0; l&apos;h&#xF4;pital quand j&apos;y &#xE9;tais il y a quelques ann&#xE9;es,<br>
+Nathalie aussi s&apos;est confi&#xE9;e a moi et mon &#xE9;coute,<br>
+Mes petit fr&#xE8;res sont rentr&#xE9;s dans tous mes d&#xE9;lires ridicule de fr&#xE8;re depuis leur naissance,<br>
+Mon beau-p&#xE8;re a &#xE9;t&#xE9; un vrai Saint-Joseph,<br>
+Mon p&#xE8;re m&apos;a l&#xE9;gu&#xE9; son second pr&#xE9;nom,<br>
+H&#xE9;l&#xE8;ne m&apos;offre la bi&#xE8;re et la pizza plus r&#xE9;guli&#xE8;rement que de raison,</p>
+<p><em>MERCI</em></p>
+<p>Vous comprenez que la liste peut &#xEA;tre tr&#xE8;s longue et que je m&apos;arr&#xEA;te a ses d&#xE9;but. J&apos;oublie tous ces qui m&apos;ont aim&#xE9; de pr&#xEA;t ou de loin, surtout eux.</p>
+<h2 class="mume-header" id="4-les-t%C3%A9n%C3%A8bres-int%C3%A9rieures">4, Les t&#xE9;n&#xE8;bres int&#xE9;rieures</h2>
+
+<h3 class="mume-header" id="autrement-appel%C3%A9es-orgueil">Autrement appel&#xE9;es orgueil</h3>
+
+<p>Peut &#xEA;tre voyez vous ce que j&apos;&#xE9;cris de diff&#xE9;rente mani&#xE8;re :</p>
+<ul>
+<li>Tout cela, je l&#x2019;ai observ&#xE9; : que me manque-t-il encore ? (Matthieu 19,20)</li>
+<li>Tout cela, je veux l&apos;observer, par o&#xF9; on commence ?</li>
+</ul>
+<p>Ce qui pr&#xE9;c&#xE8;de on le verras s&#xFB;rement plus tard.</p>
+<p>Et...</p>
+<ul>
+<li>Tout cela, je l&apos;observe d&#xE9;j&#xE0;, quand est ce que ce livre me laissera la paix (me glorifiera).</li>
+</ul>
+<p>Vous aurez compris la subtilit&#xE9; entre la premi&#xE8;re et la derni&#xE8;re proposition.<br>
+C&apos;est ma vision de l&apos;orgueil que je voudrait vous offrir, ma vision ponctuelle de mon orgueil, parce que c&apos;est de moi que je m&apos;inspire ici.</p>
+<h3 class="mume-header" id="tout-se-recoupe-dans-l%C3%A9vangile-ici-selon-saint-luc-au-chapitre-14">Tout se recoupe dans l&apos;&#xE9;vangile. Ici selon saint Luc au chapitre 14</h3>
+
+<blockquote>
+<p>16 J&#xE9;sus lui dit : &#xAB; Un homme donnait un grand d&#xEE;ner, et il avait invit&#xE9; beaucoup de monde.</p>
+<p>17 &#xC0; l&#x2019;heure du d&#xEE;ner, il envoya son serviteur dire aux invit&#xE9;s : &#x201C;Venez, tout est pr&#xEA;t.&#x201D;</p>
+<p>18 Mais ils se mirent tous, unanimement, &#xE0; s&#x2019;excuser. Le premier lui dit : &#x201C;J&#x2019;ai achet&#xE9; un champ, et je suis oblig&#xE9; d&#x2019;aller le voir ; je t&#x2019;en prie, excuse-moi.&#x201D;</p>
+<p>19 Un autre dit : &#x201C;J&#x2019;ai achet&#xE9; cinq paires de b&#x153;ufs, et je pars les essayer ; je t&#x2019;en prie, excuse-moi.&#x201D;</p>
+<p>20 Un troisi&#xE8;me dit : &#x201C;Je viens de me marier, et c&#x2019;est pourquoi je ne peux pas venir.&#x201D;</p>
+<p>21 De retour, le serviteur rapporta ces paroles &#xE0; son ma&#xEE;tre. Alors, pris de col&#xE8;re, le ma&#xEE;tre de maison dit &#xE0; son serviteur : &#x201C;D&#xE9;p&#xEA;che-toi d&#x2019;aller sur les places et dans les rues de la ville ; les pauvres, les estropi&#xE9;s, les aveugles et les boiteux, am&#xE8;ne-les ici.&#x201D;</p>
+</blockquote>
+<p>Vous allez dire qu&apos;on parle encore d&apos;aveugles, de pauvres et de malades, de prime abord. C&apos;est bien de cela qu&apos;il s&apos;agit. L&apos;orgueilleux se trouve juste et grand. Il ne reconnait pas sa petitesse - merci ici &#xE0; sainte Th&#xE9;r&#xE8;se de Lisieux. En fait, l&apos;orgueilleux a m&#xEA;me achet&#xE9; cinq paires de boeufs plut&#xF4;t que d&apos;aller au repas du Seigneur !</p>
+<p>Vous allez dire qu&apos;il ne fait pas affront totalement, mais qu&apos;il se d&#xE9;robe, ce n&apos;est pas un orgueil frontal, donc. L&apos;orgueil est insinu&#xE9; dans la personne qui ne voit plus son comportement. L&apos;orgueilleux dit m&#xEA;me <em>Je t&apos;en prie, excuse moi !</em>, mais est-ce ici un vrai <em>Kyrie eleison</em> ? Je vous laisse y r&#xE9;pondre.</p>
+<p>L&apos;orgueil s&apos;imice dans nos vies comme une douleur qui &#xE9;volue &#xE0; bas bruit qui finira par crier t&#xF4;t ou tard.</p>
+<h3 class="mume-header" id="pr%C3%A9occupation-de-j%C3%A9sus-au-chapitre-13-de-saint-luc">Pr&#xE9;occupation de J&#xE9;sus au chapitre 13 de saint Luc</h3>
+
+<p>Vous remarquerez que J&#xE9;sus ne parle pas directement de l&apos;orgueil : il n&apos;emploie pas vraiment le mot. Seulement a plusieurs reprise dans les &#xE9;vangiles synoptiques il emploie les mots d&apos;Isa&#xEF;e apr&#xE8;s la parabole du semeur :</p>
+<blockquote>
+<p>11 Il leur r&#xE9;pondit : &#xAB; &#xC0; vous il est donn&#xE9; de conna&#xEE;tre les myst&#xE8;res du royaume des Cieux, mais ce n&#x2019;est pas donn&#xE9; &#xE0; ceux-l&#xE0;.</p>
+<p>12 &#xC0; celui qui a, on donnera, et il sera dans l&#x2019;abondance ; &#xE0; celui qui n&#x2019;a pas, on enl&#xE8;vera m&#xEA;me ce qu&#x2019;il a.</p>
+<p>13 Si je leur parle en paraboles, c&#x2019;est parce qu&#x2019;ils regardent sans regarder, et qu&#x2019;ils &#xE9;coutent sans &#xE9;couter ni comprendre.</p>
+<p>14 Ainsi s&#x2019;accomplit pour eux la proph&#xE9;tie d&#x2019;Isa&#xEF;e : Vous aurez beau &#xE9;couter, vous ne comprendrez pas. Vous aurez beau regarder, vous ne verrez pas.</p>
+<p>15 Le c&#x153;ur de ce peuple s&#x2019;est alourdi : ils sont devenus durs d&#x2019;oreille, ils se sont bouch&#xE9; les yeux, de peur que leurs yeux ne voient, que leurs oreilles n&#x2019;entendent, que leur c&#x153;ur ne comprenne, qu&#x2019;ils ne se convertissent, &#x2013; et moi, je les gu&#xE9;rirai.</p>
+<p>16 Mais vous, heureux vos yeux puisqu&#x2019;ils voient, et vos oreilles puisqu&#x2019;elles entendent !</p>
+</blockquote>
+<p>La pr&#xE9;occupation de J&#xE9;sus c&apos;est que nous sortions de nos t&#xE9;n&#xE8;bres et nos enfermements, et ce en y allant activement, le regard vers Lui. Il ne cherche pas &#xE0; ce que nous luttions par nous m&#xEA;me contre les obscurit&#xE9;s de nos &#xEA;tres. Il nous en fait prendre conscience, pour que nous avancions vers Lui. C&apos;est Lui qui s&apos;occupe de nos t&#xE9;n&#xE8;bres.</p>
+<blockquote>
+<p>Si donc la lumi&#xE8;re qui est en toi est t&#xE9;n&#xE8;bres, comme elles seront grandes, les t&#xE9;n&#xE8;bres !<br>
+Matthieu 6,23</p>
+</blockquote>
+<p>Mais ces t&#xE9;n&#xE8;bres, je crois que nous les voyons rarement en face. Et heureusement. Par contre J&#xE9;sus les voit, et nous sommes appel&#xE9;s a le voir, Lui.</p>
+<p>La pr&#xE9;occupation de J&#xE9;sus, c&apos;est nous !</p>
+<blockquote>
+<p>33 Le ciel et la terre passeront, mes paroles ne passeront pas.<br>
+Evangile de Luc 21,33</p>
+</blockquote>
+<p>Et notre pr&#xE9;occupation, &#xE7;a doit &#xEA;tre les paroles de J&#xE9;sus, les m&#xEA;mes qui dans Matthieu 25 nous disaient de s&apos;occuper de Lui-m&#xEA;me dans le pauvre, l&apos;affam&#xE9;, l&apos;assoiff&#xE9; et le prisonnier.</p>
+<h3 class="mume-header" id="notre-garantie">Notre garantie</h3>
+
+<p>Notre garantie c&apos;est la parole de Dieu. J&apos;irai m&#xEA;me plus loin en disant que la garantie de notre amour, c&apos;est de mettre en pratique la parole de Dieu.</p>
+<p>Ainsi au chapitre 7 de saint Matthieu :</p>
+<blockquote>
+<p>24 Ainsi, celui qui entend les paroles que je dis l&#xE0; et les met en pratique est comparable &#xE0; un homme pr&#xE9;voyant qui a construit sa maison sur le roc.</p>
+<p>25 La pluie est tomb&#xE9;e, les torrents ont d&#xE9;val&#xE9;, les vents ont souffl&#xE9; et se sont abattus sur cette maison ; la maison ne s&#x2019;est pas &#xE9;croul&#xE9;e, car elle &#xE9;tait fond&#xE9;e sur le roc.</p>
+<p>26 Et celui qui entend de moi ces paroles sans les mettre en pratique est comparable &#xE0; un homme insens&#xE9; qui a construit sa maison sur le sable.</p>
+<p>27 La pluie est tomb&#xE9;e, les torrents ont d&#xE9;val&#xE9;, les vents ont souffl&#xE9;, ils sont venus battre cette maison ; la maison s&#x2019;est &#xE9;croul&#xE9;e, et son &#xE9;croulement a &#xE9;t&#xE9; complet. &#xBB;</p>
+</blockquote>
+<p>Puis saint Jacques au chapitre 1 :</p>
+<blockquote>
+<p>22 Mettez la Parole en pratique, ne vous contentez pas de l&#x2019;&#xE9;couter : ce serait vous faire illusion.</p>
+<p>23 Car si quelqu&#x2019;un &#xE9;coute la Parole sans la mettre en pratique, il est comparable &#xE0; un homme qui observe dans un miroir son visage tel qu&#x2019;il est,</p>
+<p>24 et qui, aussit&#xF4;t apr&#xE8;s, s&#x2019;en va en oubliant comment il &#xE9;tait.</p>
+<p>25 Au contraire, celui qui se penche sur la loi parfaite, celle de la libert&#xE9;, et qui s&#x2019;y tient, lui qui l&#x2019;&#xE9;coute non pour l&#x2019;oublier, mais pour la mettre en pratique dans ses actes, celui-l&#xE0; sera heureux d&#x2019;agir ainsi.</p>
+</blockquote>
+<p>Et enfin Saint Matthieu au chapitre 12 :</p>
+<blockquote>
+<p>47 Quelqu&#x2019;un lui dit : &#xAB; Ta m&#xE8;re et tes fr&#xE8;res sont l&#xE0;, dehors, qui cherchent &#xE0; te parler. &#xBB;</p>
+<p>48 J&#xE9;sus lui r&#xE9;pondit : &#xAB; Qui est ma m&#xE8;re, et qui sont mes fr&#xE8;res ? &#xBB;</p>
+<p>49 Puis, &#xE9;tendant la main vers ses disciples, il dit : &#xAB; Voici ma m&#xE8;re et mes fr&#xE8;res.</p>
+<p>50 Car celui qui fait la volont&#xE9; de mon P&#xE8;re qui est aux cieux, celui-l&#xE0; est pour moi un fr&#xE8;re, une s&#x153;ur, une m&#xE8;re. &#xBB;</p>
+</blockquote>
+<p>Notre garantie c&apos;est la parole de Dieu qui nous envoit a chaque verset a la rencontre de l&apos;autre. Et ici je vous propose une simple alternative &#xE0; nos souffrances loin de la parole de Dieu : le retour vers l&apos;autre.</p>
+<h2 class="mume-header" id="5-le-retour-vers-lautre">5, Le retour vers l&apos;autre</h2>
+
+<h3 class="mume-header" id="evangile-de-jean-au-chapitre-1512-14">Evangile de Jean au chapitre 15,12-14</h3>
+
+<p>Ce n&apos;est autre qu&apos;appliquer le commandement de J&#xE9;sus avant sa passion.</p>
+<blockquote>
+<p>12 Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aim&#xE9;s.</p>
+<p>13 Il n&#x2019;y a pas de plus grand amour que de donner sa vie pour ceux qu&#x2019;on aime.</p>
+<p>14 Vous &#xEA;tes mes amis si vous faites ce que je vous commande.</p>
+</blockquote>
+<p>C&apos;est un retour parce que ca demande de faire un retour sur la vie de J&#xE9;sus, une relecture de ce qu&apos;il a pos&#xE9; comme acte pour aimer, notamment sa k&#xE9;nose : sa descente sur Terre aupr&#xE8;s de nous, depuis les cieux, et tout ce qu&apos;il a fait parmi les hommes du d&#xE9;but &#xE0; la fin des temps.</p>
+<p>C&apos;est un retour sur notre propre exp&#xE9;rience d&apos;amour aussi. Car nous voyons bien que nous n&apos;aimons pas comme J&#xE9;sus.</p>
+<p>C&apos;est enfin un retour vers l&apos;autre, avec une attitude ajust&#xE9;e &#xE0; lui et &#xE0; ce que J&#xE9;sus nous demande : aimer comme il aime.</p>
+<p>Et il clot tout d&#xE9;bat nous concernant, juste apr&#xE8;s, au verset 17 :</p>
+<blockquote>
+<p>17 Voici ce que je vous commande : c&#x2019;est de vous aimer les uns les autres.</p>
+</blockquote>
+<p>L&#xE0; on pourrait dire que J&#xE9;sus a tout dit, sauf qu&apos;en suivant il va illustrer son propos en se livrant et en mourrant de sa mort sur la croix en total accord avec son P&#xE8;re afin de nous sauver.</p>
+<p>J&#xE9;sus a Geths&#xE9;mani a concr&#xE9;tis&#xE9; l&apos;appel de son P&#xE8;re &#xE0; s&apos;offrir en victime d&apos;holocauste. Dieu sauve. Rien ne l&apos;y obligeai mais il voulait faire la volont&#xE9; de son P&#xE8;re. J&#xE9;sus est libre et en toute confiance il se donne. Mais pas sans sacrifice donc.</p>
+<p>Je laisse la parole &#xE0; saint Paul aux Romains au chapitre 5 :</p>
+<blockquote>
+<p>06 Alors que nous n&#x2019;&#xE9;tions encore capables de rien, le Christ, au temps fix&#xE9; par Dieu, est mort pour les impies que nous &#xE9;tions.</p>
+<p>07 Accepter de mourir pour un homme juste, c&#x2019;est d&#xE9;j&#xE0; difficile ; peut-&#xEA;tre quelqu&#x2019;un s&#x2019;exposerait-il &#xE0; mourir pour un homme de bien.</p>
+<p>08 Or, la preuve que Dieu nous aime, c&#x2019;est que le Christ est mort pour nous, alors que nous &#xE9;tions encore p&#xE9;cheurs.</p>
+</blockquote>
+<p>Et la k&#xE9;nose du Christ se termine ici. Un &#xE9;lan prodigieux vers l&apos;Homme, un appel des hommes, et un amour de chacun in&#xE9;gal&#xE9;. J&#xE9;sus est mort pour chacun de nous.</p>
+<p>MERCI Seigneur J&#xE9;sus.</p>
+<h3 class="mume-header" id="imperceptible">Imperceptible</h3>
+
+<p>S&apos;ouvrir aux autres est imperceptible.</p>
+<blockquote>
+<p>On ne dira pas : &#x201C;Voil&#xE0;, il est ici !&#x201D; ou bien : &#x201C;Il est l&#xE0; !&#x201D; En effet, voici que le r&#xE8;gne de Dieu est au milieu de vous. &#xBB;</p>
+<p>Evangile de Luc 17,21</p>
+</blockquote>
+<p>En d&apos;autres terme nous ne sommes pas arriv&#xE9;s ! On n&apos;est jamais assez ouvert au prochain !</p>
+<p>Je r&#xE9;sume cette courte vision de la rencontre : si Dieu a toutes les initiatives dans la rencontre envers les hommes, il nous faut lui r&#xE9;pondre un <em>oui</em> que nous n&apos;avons pas trait&#xE9; ici.<br>
+En revanche, ce <em>oui</em> &#xE9;tant dit, la rencontre envers les autres hommes nous incombent, <em>faisant de nous des Dieux</em>.</p>
+<h2 class="mume-header" id="le-oui">Le Oui</h2>
+
+<p>Je vous dirai de r&#xE9;pondre &#xE0; cette question, sans trop vous influencer, &#xE0; la lecture de cette premi&#xE8;re partie.</p>
+<p>Croyez que notre Seigneur vient &#xE0; vous en cet instant et vous demande par la question suivante de renouveller votre Amour vers lui ou de l&apos;initier.<br>
+Il me laisse la plume et j&apos;ose &#xE9;crire la question suivante :</p>
+<blockquote>
+<p>Veux-tu, lecteur, faire la premi&#xE8;re place au Seigneur dans ta vie : dans ton coeur, dans ton &#xE2;me, dans ton esprit, dans tes d&#xE9;cisions, et ainsi L&apos;aimer de toute ta force ?</p>
+</blockquote>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

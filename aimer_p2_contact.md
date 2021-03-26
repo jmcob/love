@@ -1,8 +1,8 @@
-# Partie 2 : le contact, le goût.
+# Partie 2 : le contact, le goût de la rencontre.
 
 ## touch > altérité > incarnation
 
-Finalement viens le temps du contact après cette rencontre. C'est le temps pour moi de la délicatesse et du pardon. J'annonce la couleur car je ne sais pas vraiment comment amener ces deux notions autrement.
+Finalement viens le temps du contact. C'est le temps pour moi de la délicatesse et du pardon. J'annonce la couleur car je ne sais pas vraiment comment amener ces deux notions autrement.
 
 ## Pardon
 
@@ -38,10 +38,12 @@ Jésus n'est pas "descendu" sur Terre pour remettre les pendules à l'heure sur 
 >
 > 35 C’est ainsi que mon Père du ciel vous traitera, si chacun de vous ne pardonne pas à son frère du fond du cœur. »
 
-Cette fois je vais vous dire comment je lis : le pardon est à nous, point. Non pas que nous soyons pardonnés, pas seulement. Mais que nous pouvons pardonner les torts et les dettes qui nous sont faites. Comme notre Seigneur. C'est même notre devoir de chrétien.  
+Cette fois je vais vous dire comment je lis.
+
+ Le pardon est à nous, point. Non pas que nous soyons seulement pardonnés. Mais que nous pouvons pardonner les torts et les dettes qui nous sont faites. Comme notre Seigneur. C'est même notre devoir de chrétien.  
 
 Pardonner les frictions de notre altérité d'abord, les petites agressions de la vie quotidiennes. Et les tentatives mal conclues d'ouvertures vers l'autre. Les malentendus, les quiproquos, les petites blessures tout simplement.
 
-### L’accueil
+### La raison
 
-Concernant ces frictions, tout est dans l’accueil.
+Quand Jésus dit une parabole, il fait appelle a notre raison pour nous envoyer promener dans notre foi et notre relation à Dieu et au Royaume des Cieux.
