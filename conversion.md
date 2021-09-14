@@ -18,7 +18,7 @@ un avenir aussi :
 
 C'était donc vrai,
 ta Parole est bien tienne,
-tu viens me la confirmer.
+avec force, tu viens me la confirmer.
 
 Je crois. Je suis sauvé.
 
